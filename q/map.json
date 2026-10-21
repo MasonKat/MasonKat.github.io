@@ -1,4 +1,8 @@
 {
+ "q/10-2-2/103": {
+  "target": "https://www.youtube.com/watch?v=f_xve1YgF8Q&list=PLDNkbV_VaUtY",
+  "title": "AMP-공통수학2 워크북 103번 해설 | ㄷ 절대부등식 풀이 네 가지 (코시-슈바르츠·벡터)"
+ },
  "q/10-2-2/108": {
   "target": "https://www.youtube.com/watch?v=waSsWJi-XP4&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 108번 해설 | 산술평균과 기하평균"
@@ -55,6 +59,54 @@
   "target": "https://www.youtube.com/watch?v=f6jPGjaxPR8&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 387번 해설 | 명제의 역과 진리집합"
  },
+ "q/10-2-2/388": {
+  "target": "https://www.youtube.com/watch?v=AtgPi9-OFVI&list=PLDNkbV_VaUtY",
+  "title": "AMP-공통수학2 워크북 388번 해설 | 필요조건이지만 충분조건이 아닌 것 · 두 방향 판정"
+ },
+ "q/10-2-2/389": {
+  "target": "https://www.youtube.com/watch?v=QQjfxk7xQZs&list=PLDNkbV_VaUtY",
+  "title": "AMP-공통수학2 워크북 389번 해설 | 충분·필요조건 점수 f(a,b) · 세 조건을 한 줄로"
+ },
+ "q/10-2-2/390": {
+  "target": "https://www.youtube.com/watch?v=3M9c_DvUE28&list=PLDNkbV_VaUtY",
+  "title": "AMP-공통수학2 워크북 390번 해설 | 정수 조건과 반례 · 필요조건은 뒤집어 읽기"
+ },
+ "q/10-2-2/391": {
+  "target": "https://www.youtube.com/watch?v=geJiO83ra1A&list=PLDNkbV_VaUtY",
+  "title": "AMP-공통수학2 워크북 391번 해설 | 필요충분조건 = 진리집합이 같다"
+ },
+ "q/10-2-2/392": {
+  "target": "https://www.youtube.com/watch?v=9nlfHP4QW-Y&list=PLDNkbV_VaUtY",
+  "title": "AMP-공통수학2 워크북 392번 해설 | 충분조건·필요조건으로 집합 세기"
+ },
+ "q/10-2-2/393": {
+  "target": "https://www.youtube.com/watch?v=vD1mulRsCe0&list=PLDNkbV_VaUtY",
+  "title": "AMP-공통수학2 워크북 393번 해설 | 모든 실수에서 참이 되는 조건과 판별식"
+ },
+ "q/10-2-2/394": {
+  "target": "https://www.youtube.com/watch?v=uDuNitOFj_s&list=PLDNkbV_VaUtY",
+  "title": "AMP-공통수학2 워크북 394번 해설 | 절대부등식의 등호 조건"
+ },
+ "q/10-2-2/395": {
+  "target": "https://www.youtube.com/watch?v=YXhZ8E8wM3c&list=PLDNkbV_VaUtY",
+  "title": "AMP-공통수학2 워크북 395번 해설 | 귀류법으로 무리수 증명"
+ },
+ "q/10-2-2/396": {
+  "target": "https://www.youtube.com/watch?v=PS1cNFvUaFc&list=PLDNkbV_VaUtY",
+  "title": "AMP-공통수학2 워크북 396번 해설 | 모든 실수에서 성립하는 부등식"
+ },
+ "q/10-2-2/397": {
+  "target": "https://www.youtube.com/watch?v=LivHY_CO8k8&list=PLDNkbV_VaUtY",
+  "title": "AMP-공통수학2 워크북 397번 해설 | 동차식은 비율 하나로, 최댓값"
+ },
+ "q/10-2-2/398": {
+  "target": "https://www.youtube.com/watch?v=9FSB9YpEqlk&list=PLDNkbV_VaUtY",
+  "title": "AMP-공통수학2 워크북 398번 해설 | 곱이 일정한 두 덩어리로 묶기"
+ },
+ "q/10-2-2/399": {
+  "target": "https://www.youtube.com/watch?v=EYGoKTcTy4A&list=PLDNkbV_VaUtY",
+  "title": "AMP-공통수학2 워크북 399번 해설 | 분모를 한 글자로, 산술·기하는 한 번만"
+ },
  "q/10-2-2/400": {
   "target": "https://www.youtube.com/watch?v=Mn4CQjlmdZI&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 400번 해설 | 수직인 직선과 산술·기하평균"
@@ -70,6 +122,14 @@
  "q/10-2-2/534": {
   "target": "https://www.youtube.com/watch?v=OnxZe7-GB5s&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 534번 해설 | 점과 직선 사이의 거리의 최대·최소"
+ },
+ "q/11-2-2/7": {
+  "target": "https://www.youtube.com/watch?v=31HFiWTBIKE&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 7번 해설 | 중근에서는 부호가 안 바뀐다 · 극댓값"
+ },
+ "q/11-2-2/12": {
+  "target": "https://www.youtube.com/watch?v=VzcsW4plEok&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 12번 해설 | 도함수의 부호가 바뀌는 점에서 극소"
  },
  "q/11-2-2/32": {
   "target": "https://www.youtube.com/watch?v=KsfNSpcAA2o&list=PLT60WQthwFmk",
