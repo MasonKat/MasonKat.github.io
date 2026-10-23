@@ -159,9 +159,33 @@
   "target": "https://www.youtube.com/watch?v=k2044VnTvn0&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 412번 해설 | 작은 쪽부터 정하면 후보 2개씩"
  },
+ "q/10-2-2/415": {
+  "target": "https://www.youtube.com/watch?v=ufy39oGZnQE&list=PLDNkbV_VaUtY",
+  "title": "AMP-공통수학2 워크북 415번 해설 | 교환 조건으로 g의 값을 사슬처럼 구하기"
+ },
+ "q/10-2-2/416": {
+  "target": "https://www.youtube.com/watch?v=BgN8RF55_ik&list=PLDNkbV_VaUtY",
+  "title": "AMP-공통수학2 워크북 416번 해설 | 일차함수의 치역과 계수 비교로 g 찾기"
+ },
+ "q/10-2-2/417": {
+  "target": "https://www.youtube.com/watch?v=OO8_KCPybFE&list=PLDNkbV_VaUtY",
+  "title": "AMP-공통수학2 워크북 417번 해설 | 안쪽을 t로 놓아 g 되살리기, 정수 개수 세기"
+ },
  "q/10-2-2/418": {
   "target": "https://www.youtube.com/watch?v=66FxNbfh0oM&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 418번 해설 | 합성함수 f(f(x))의 방정식"
+ },
+ "q/10-2-2/420": {
+  "target": "https://www.youtube.com/watch?v=ggOK8F8LXbQ&list=PLDNkbV_VaUtY",
+  "title": "AMP-공통수학2 워크북 420번 해설 | 인수분해 후 g(t)=t, 기울기 1인 직선을 W 위에서 밀기"
+ },
+ "q/10-2-2/421": {
+  "target": "https://www.youtube.com/watch?v=OZGtBL_PEew&list=PLDNkbV_VaUtY",
+  "title": "AMP-공통수학2 워크북 421번 해설 | 두 조각 함수의 역함수: 끝값 ≤ 4 ≤ 시작값이면 둘 다 4"
+ },
+ "q/10-2-2/423": {
+  "target": "https://www.youtube.com/watch?v=-_7VHPh2W50&list=PLDNkbV_VaUtY",
+  "title": "AMP-공통수학2 워크북 423번 해설 | 역함수 조건을 나머지별 칸 고르기로"
  },
  "q/10-2-2/474": {
   "target": "https://www.youtube.com/watch?v=c2XUcC7I17A&list=PLDNkbV_VaUtY",
@@ -234,6 +258,22 @@
  "q/11-2-2/432": {
   "target": "https://www.youtube.com/watch?v=_FlHw1WtHVc&list=PLT60WQthwFmk",
   "title": "AMP-미적분1 워크북 432번 해설 | 최고차항이 음수인 삼차함수의 극대·극소"
+ },
+ "q/11-2-2/433": {
+  "target": "https://www.youtube.com/watch?v=_NKbcgbl61s&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 433번 해설 | 극소 자리를 미지수로, 실근 두 개 = 수평선이 접한다"
+ },
+ "q/11-2-2/435": {
+  "target": "https://www.youtube.com/watch?v=O2nXD-NVMik&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 435번 해설 | 정수 조건, 사잇값 정리로 근의 위치 찾기"
+ },
+ "q/11-2-2/443": {
+  "target": "https://www.youtube.com/watch?v=e_6qcVnVO1c&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 443번 해설 | 구간이 늘어날 때의 최대·최소와 미분가능성"
+ },
+ "q/11-2-2/444": {
+  "target": "https://www.youtube.com/watch?v=KRSd43dOKdM&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 444번 해설 | 움직이는 구간의 최댓값과 중근 인수분해"
  },
  "q/11-2-2/460": {
   "target": "https://www.youtube.com/watch?v=57WvQbQ4ezc&list=PLT60WQthwFmk",
