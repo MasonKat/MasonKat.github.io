@@ -255,6 +255,10 @@
   "target": "https://www.youtube.com/watch?v=flRPjLbCnyY&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 434번 해설 | 중심을 원점으로 옮기면 A와 C는 원점 대칭"
  },
+ "q/10-2-2/435": {
+  "target": "https://www.youtube.com/watch?v=iiNgNbsFYHU&list=PLDNkbV_VaUtY",
+  "title": "AMP-공통수학2 워크북 435번 해설 | 중점의 자취는 x+y=c, 접하는 직선에서 Q가 3개"
+ },
  "q/10-2-2/474": {
   "target": "https://www.youtube.com/watch?v=c2XUcC7I17A&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 474번 해설 | 역함수와 일대일대응"
@@ -386,6 +390,10 @@
  "q/11-2-2/444": {
   "target": "https://www.youtube.com/watch?v=KRSd43dOKdM&list=PLT60WQthwFmk",
   "title": "AMP-미적분1 워크북 444번 해설 | 움직이는 구간의 최댓값과 중근 인수분해"
+ },
+ "q/11-2-2/445": {
+  "target": "https://www.youtube.com/watch?v=PlkJsFp3GsA&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 445번 해설 | 겹친 넓이 = P의 x좌표 × y좌표, 삼차함수로 최댓값"
  },
  "q/11-2-2/460": {
   "target": "https://www.youtube.com/watch?v=57WvQbQ4ezc&list=PLT60WQthwFmk",
