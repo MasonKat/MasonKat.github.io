@@ -232,11 +232,11 @@
   "title": "AMP-공통수학2 워크북 428번 해설 | 비례식은 k로 놓고 세 식을 더하기"
  },
  "q/10-2-2/429": {
-  "target": "https://www.youtube.com/watch?v=xFMsZcFQa1k&list=PLDNkbV_VaUtY",
+  "target": "https://www.youtube.com/watch?v=axvCogXmXx0&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 429번 해설 | 평행선 닮음비로 길이를 x의 유리식으로"
  },
  "q/10-2-2/430": {
-  "target": "https://www.youtube.com/watch?v=bhAXuQNGEC8&list=PLDNkbV_VaUtY",
+  "target": "https://www.youtube.com/watch?v=gjmmGl1LqDA&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 430번 해설 | 병렬은 역수의 합, 표준형으로 증가 확인 후 끝값 대입"
  },
  "q/10-2-2/431": {
@@ -244,7 +244,7 @@
   "title": "AMP-공통수학2 워크북 431번 해설 | k=2a−b 부호로 아래 가지 위치 나누기, a≠b/2 제외"
  },
  "q/10-2-2/432": {
-  "target": "https://www.youtube.com/watch?v=wX0uGz65BR8&list=PLDNkbV_VaUtY",
+  "target": "https://www.youtube.com/watch?v=WSRXmoFvuKY&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 432번 해설 | 상수함수 조건 ac=2b만 세고 512에서 빼기"
  },
  "q/10-2-2/433": {
@@ -256,7 +256,7 @@
   "title": "AMP-공통수학2 워크북 434번 해설 | 중심을 원점으로 옮기면 A와 C는 원점 대칭"
  },
  "q/10-2-2/435": {
-  "target": "https://www.youtube.com/watch?v=iiNgNbsFYHU&list=PLDNkbV_VaUtY",
+  "target": "https://www.youtube.com/watch?v=Dde8Dy8KcDs&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 435번 해설 | 중점의 자취는 x+y=c, 접하는 직선에서 Q가 3개"
  },
  "q/10-2-2/474": {
@@ -394,6 +394,18 @@
  "q/11-2-2/445": {
   "target": "https://www.youtube.com/watch?v=PlkJsFp3GsA&list=PLT60WQthwFmk",
   "title": "AMP-미적분1 워크북 445번 해설 | 겹친 넓이 = P의 x좌표 × y좌표, 삼차함수로 최댓값"
+ },
+ "q/11-2-2/446": {
+  "target": "https://www.youtube.com/watch?v=JwrxbSiZO28&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 446번 해설 | 평행한 접선 = 5만큼 옮긴 짝, 넓이의 합을 p 하나로"
+ },
+ "q/11-2-2/447": {
+  "target": "https://www.youtube.com/watch?v=WA-ABrWV5B4&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 447번 해설 | 교점 = 방정식의 근, 판별식만 보면 틀린다 (두 양의 실근)"
+ },
+ "q/11-2-2/449": {
+  "target": "https://www.youtube.com/watch?v=ILrK9fk13BU&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 449번 해설 | 역함수는 y=g(x)로 치환, 근의 개수 그대로 · 수평선이 극값에 걸릴 때"
  },
  "q/11-2-2/460": {
   "target": "https://www.youtube.com/watch?v=57WvQbQ4ezc&list=PLT60WQthwFmk",
