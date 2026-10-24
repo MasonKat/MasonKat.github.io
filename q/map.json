@@ -403,9 +403,21 @@
   "target": "https://www.youtube.com/watch?v=WA-ABrWV5B4&list=PLT60WQthwFmk",
   "title": "AMP-미적분1 워크북 447번 해설 | 교점 = 방정식의 근, 판별식만 보면 틀린다 (두 양의 실근)"
  },
+ "q/11-2-2/448": {
+  "target": "https://www.youtube.com/watch?v=0TYP8pQTcW0&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 448번 해설 | 가장 큰 근 g(t)는 가장 오른쪽 교점, 극솟값 높이에서만 끊긴다"
+ },
  "q/11-2-2/449": {
   "target": "https://www.youtube.com/watch?v=ILrK9fk13BU&list=PLT60WQthwFmk",
   "title": "AMP-미적분1 워크북 449번 해설 | 역함수는 y=g(x)로 치환, 근의 개수 그대로 · 수평선이 극값에 걸릴 때"
+ },
+ "q/11-2-2/450": {
+  "target": "https://www.youtube.com/watch?v=QEhk5wR6hHU&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 450번 해설 | 실근의 개수 함수는 극값 높이에서 끊긴다, 곱이 연속이면 g=0"
+ },
+ "q/11-2-2/451": {
+  "target": "https://www.youtube.com/watch?v=o70YmbyLLd8&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 451번 해설 | f와 g 대신 차함수 h=f−g, 극댓값 4에서 접하는 수평선"
  },
  "q/11-2-2/460": {
   "target": "https://www.youtube.com/watch?v=57WvQbQ4ezc&list=PLT60WQthwFmk",
