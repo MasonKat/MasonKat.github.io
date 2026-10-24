@@ -159,6 +159,14 @@
   "target": "https://www.youtube.com/watch?v=k2044VnTvn0&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 412번 해설 | 작은 쪽부터 정하면 후보 2개씩"
  },
+ "q/10-2-2/413": {
+  "target": "https://www.youtube.com/watch?v=dWL_0eg2bAc&list=PLDNkbV_VaUtY",
+  "title": "AMP-공통수학2 워크북 413번 해설 | f(f(1))=1 은 f(1)=a 로 두고 경우 나누기"
+ },
+ "q/10-2-2/414": {
+  "target": "https://www.youtube.com/watch?v=Jetv1xCbWmg&list=PLDNkbV_VaUtY",
+  "title": "AMP-공통수학2 워크북 414번 해설 | 치역의 원소 개수와 합성함수 f∘f 의 치역"
+ },
  "q/10-2-2/415": {
   "target": "https://www.youtube.com/watch?v=ufy39oGZnQE&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 415번 해설 | 교환 조건으로 g의 값을 사슬처럼 구하기"
@@ -175,6 +183,10 @@
   "target": "https://www.youtube.com/watch?v=66FxNbfh0oM&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 418번 해설 | 합성함수 f(f(x))의 방정식"
  },
+ "q/10-2-2/419": {
+  "target": "https://www.youtube.com/watch?v=LJMTvMPdQXc&list=PLDNkbV_VaUtY",
+  "title": "AMP-공통수학2 워크북 419번 해설 | f(f(x)) 방정식은 t=f(x)로 바꾸고 가로선으로 근 세기"
+ },
  "q/10-2-2/420": {
   "target": "https://www.youtube.com/watch?v=ggOK8F8LXbQ&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 420번 해설 | 인수분해 후 g(t)=t, 기울기 1인 직선을 W 위에서 밀기"
@@ -182,6 +194,10 @@
  "q/10-2-2/421": {
   "target": "https://www.youtube.com/watch?v=OZGtBL_PEew&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 421번 해설 | 두 조각 함수의 역함수: 끝값 ≤ 4 ≤ 시작값이면 둘 다 4"
+ },
+ "q/10-2-2/422": {
+  "target": "https://www.youtube.com/watch?v=gAI05KBFmRs&list=PLDNkbV_VaUtY",
+  "title": "AMP-공통수학2 워크북 422번 해설 | 절댓값을 풀고 한 방향 구간 고르기"
  },
  "q/10-2-2/423": {
   "target": "https://www.youtube.com/watch?v=-_7VHPh2W50&list=PLDNkbV_VaUtY",
@@ -263,9 +279,41 @@
   "target": "https://www.youtube.com/watch?v=_NKbcgbl61s&list=PLT60WQthwFmk",
   "title": "AMP-미적분1 워크북 433번 해설 | 극소 자리를 미지수로, 실근 두 개 = 수평선이 접한다"
  },
+ "q/11-2-2/434": {
+  "target": "https://www.youtube.com/watch?v=aYhOCJ4YK8I&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 434번 해설 | 실근이 두 개인 p의 최댓값 = 극댓값"
+ },
  "q/11-2-2/435": {
   "target": "https://www.youtube.com/watch?v=O2nXD-NVMik&list=PLT60WQthwFmk",
   "title": "AMP-미적분1 워크북 435번 해설 | 정수 조건, 사잇값 정리로 근의 위치 찾기"
+ },
+ "q/11-2-2/436": {
+  "target": "https://www.youtube.com/watch?v=xGG_1p5dzjU&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 436번 해설 | g(t)의 불연속점은 f′=0 인 점의 높이"
+ },
+ "q/11-2-2/437": {
+  "target": "https://www.youtube.com/watch?v=g0oRB_4PWYQ&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 437번 해설 | 극한 조건을 두 곡선이 접한다로 읽기"
+ },
+ "q/11-2-2/438": {
+  "target": "https://www.youtube.com/watch?v=tBOtn8-WCMI&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 438번 해설 | 최솟값 함수 g(t)와 부호가 바뀌지 않는 근"
+ },
+ "q/11-2-2/439": {
+  "target": "https://www.youtube.com/watch?v=FcyklTHdR_0&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 439번 해설 | 절댓값 방정식과 삼차함수의 극솟값"
+ },
+ "q/11-2-2/440": {
+  "target": "https://www.youtube.com/watch?v=VHxy_7lg74o&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 440번 해설 | 절댓값 함수의 미분가능성과 근의 중복도"
+ },
+ "q/11-2-2/441": {
+  "target": "https://www.youtube.com/watch?v=UD0cZZjy9F8&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 441번 해설 | 이어 붙인 함수의 미분가능과 평행이동한 근"
+ },
+ "q/11-2-2/442": {
+  "target": "https://www.youtube.com/watch?v=s7REDwUmTpU&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 442번 해설 | 절댓값 함수의 최댓값과 극값의 위치"
  },
  "q/11-2-2/443": {
   "target": "https://www.youtube.com/watch?v=e_6qcVnVO1c&list=PLT60WQthwFmk",
