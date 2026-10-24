@@ -1,12 +1,12 @@
 {
  "q/cv/10-2/1": {
   "slug": "CV_2026_10-2_001",
-  "target": null,
+  "target": "https://www.youtube.com/watch?v=Yc0MgDcyNLc&list=PLDNkbV_VaUtY",
   "title": "AMP-개념심기 기초 공통 1화 | 분수와 부호 계산, 처음부터"
  },
  "q/cv/10-2/2": {
   "slug": "CV_2026_10-2_002",
-  "target": null,
+  "target": "https://www.youtube.com/watch?v=Q1fh2gE6NwE&list=PLDNkbV_VaUtY",
   "title": "AMP-개념심기 기초 공통 2화 | 좌표와 그래프 읽기"
  },
  "q/cv/10-2/5": {
@@ -16,7 +16,7 @@
  },
  "q/cv/10-2/6": {
   "slug": "CV_2026_10-2_006",
-  "target": null,
+  "target": "https://www.youtube.com/watch?v=bHv4CXKjQiI&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 개념심기 기초 3화 | 함수는 기계, 정의역·치역과 f(x) 읽기"
  },
  "q/cv/10-2/8": {
@@ -26,7 +26,7 @@
  },
  "q/cv/10-2/9": {
   "slug": "CV_2026_10-2_009",
-  "target": null,
+  "target": "https://www.youtube.com/watch?v=ZKPrlqY0zH0&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 개념심기 기초 4화 | 대칭이동, 축과 원점과 y=x"
  },
  "q/cv/11-2/3": {
@@ -41,7 +41,7 @@
  },
  "q/cv/11-2/9": {
   "slug": "CV_2026_11-2_009",
-  "target": null,
+  "target": "https://www.youtube.com/watch?v=KPlvhV5vaec&list=PLT60WQthwFmk",
   "title": "AMP-미적분1 개념심기 기초 4화 | f′ 그래프에서 f 그리기"
  },
  "q/cv/11-2/10": {
