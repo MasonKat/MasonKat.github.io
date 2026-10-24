@@ -252,7 +252,7 @@
   "title": "AMP-공통수학2 워크북 433번 해설 | 역함수의 정의역은 치역, 중심을 지나는 직선은 교점이 0개 또는 2개"
  },
  "q/10-2-2/434": {
-  "target": "https://www.youtube.com/watch?v=flRPjLbCnyY&list=PLDNkbV_VaUtY",
+  "target": "https://www.youtube.com/watch?v=ypETYvgMREY&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 434번 해설 | 중심을 원점으로 옮기면 A와 C는 원점 대칭"
  },
  "q/10-2-2/435": {
@@ -400,7 +400,7 @@
   "title": "AMP-미적분1 워크북 446번 해설 | 평행한 접선 = 5만큼 옮긴 짝, 넓이의 합을 p 하나로"
  },
  "q/11-2-2/447": {
-  "target": "https://www.youtube.com/watch?v=WA-ABrWV5B4&list=PLT60WQthwFmk",
+  "target": "https://www.youtube.com/watch?v=Uc6uR0BC-7I&list=PLT60WQthwFmk",
   "title": "AMP-미적분1 워크북 447번 해설 | 교점 = 방정식의 근, 판별식만 보면 틀린다 (두 양의 실근)"
  },
  "q/11-2-2/448": {
@@ -416,7 +416,7 @@
   "title": "AMP-미적분1 워크북 450번 해설 | 실근의 개수 함수는 극값 높이에서 끊긴다, 곱이 연속이면 g=0"
  },
  "q/11-2-2/451": {
-  "target": "https://www.youtube.com/watch?v=o70YmbyLLd8&list=PLT60WQthwFmk",
+  "target": "https://www.youtube.com/watch?v=nMeg7h100nw&list=PLT60WQthwFmk",
   "title": "AMP-미적분1 워크북 451번 해설 | f와 g 대신 차함수 h=f−g, 극댓값 4에서 접하는 수평선"
  },
  "q/11-2-2/452": {
@@ -424,12 +424,20 @@
   "title": "AMP-미적분1 워크북 452번 해설 | x+1/x=t 치환, t≥2 범위 안쪽의 극소가 최솟값 (끝값 함정)"
  },
  "q/11-2-2/453": {
-  "target": "https://www.youtube.com/watch?v=BmlhwakPwv8&list=PLT60WQthwFmk",
+  "target": "https://www.youtube.com/watch?v=Tx6la-5nUAc&list=PLT60WQthwFmk",
   "title": "AMP-미적분1 워크북 453번 해설 | f+f′=g 로 묶기, 구간 안쪽의 0은 중근 → 두 조건이 r을 양쪽에서 조인다"
+ },
+ "q/11-2-2/454": {
+  "target": "https://www.youtube.com/watch?v=KnR2L6J3ttM&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 454번 해설 | 적분 부등식 = 접선이 곡선 아래, 경계에서 이중접선"
  },
  "q/11-2-2/455": {
   "target": "https://www.youtube.com/watch?v=JwyTAeiKcEc&list=PLT60WQthwFmk",
   "title": "AMP-미적분1 워크북 455번 해설 | 곱이 항상 0 이상이면 근은 관통하지 않는다: 중근 두 개로 삼차함수 결정"
+ },
+ "q/11-2-2/456": {
+  "target": "https://www.youtube.com/watch?v=-I1xEUlLp_w&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 456번 해설 | 미분가능으로 a, 직선을 밀어서 접할 때 k의 최솟값"
  },
  "q/11-2-2/460": {
   "target": "https://www.youtube.com/watch?v=57WvQbQ4ezc&list=PLT60WQthwFmk",
