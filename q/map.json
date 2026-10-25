@@ -583,6 +583,14 @@
   "target": "https://www.youtube.com/watch?v=G9dOaeKCUX4&list=PLT60WQthwFmk",
   "title": "AMP-미적분1 워크북 477번 해설 | 도함수 범위로 울타리, 적분의 한계와 등호 확인"
  },
+ "q/11-2-2/478": {
+  "target": "https://www.youtube.com/watch?v=409T74dWMrM&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 478번 해설 | ∫|f′| = 내려간 양 + 올라간 양, k＞1 이면 모순 → 극솟값 0"
+ },
+ "q/11-2-2/479": {
+  "target": "https://www.youtube.com/watch?v=e3ftIlk5hnY&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 479번 해설 | (f+|f|)/2 는 위쪽만, 그 적분이 0 이면 f≤0 → 정수근 0, 2, 8"
+ },
  "q/11-2-2/493": {
   "target": "https://www.youtube.com/watch?v=zvq5CzfLSJA&list=PLT60WQthwFmk",
   "title": "AMP-미적분1 워크북 493번 해설 | 두 그래프 사이의 넓이"
