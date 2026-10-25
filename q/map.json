@@ -635,6 +635,10 @@
   "target": "https://www.youtube.com/watch?v=F3Zn7zlh5tQ&list=PLT60WQthwFmk",
   "title": "AMP-미적분1 워크북 490번 해설 | 차 f−g = kx(x²−25), f·g 몰라도 넓이 25 (∫₀⁻¹ 방향 함정)"
  },
+ "q/11-2-2/491": {
+  "target": "https://www.youtube.com/watch?v=n84Wm_DWbcI&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 491번 해설 | f−g = (x−a)Q(x), Q(a) = f′(a), 두 점 ⇔ 중근 → 차 8x+12 삼각형 9"
+ },
  "q/11-2-2/493": {
   "target": "https://www.youtube.com/watch?v=zvq5CzfLSJA&list=PLT60WQthwFmk",
   "title": "AMP-미적분1 워크북 493번 해설 | 두 그래프 사이의 넓이"
