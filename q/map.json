@@ -627,6 +627,14 @@
   "target": "https://www.youtube.com/watch?v=uDyTXgjdTs0&list=PLT60WQthwFmk",
   "title": "AMP-미적분1 워크북 488번 해설 | g′ = |x|(|q|−1) 을 띠 하나로 읽기 · q(2) = −1, q(6) = 1, q(0) = 1"
  },
+ "q/11-2-2/489": {
+  "target": "https://www.youtube.com/watch?v=OQAAUF6tVeY&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 489번 해설 | h′ 를 네 구간으로 · 0 이 돼도 부호가 같으면 극값 아님 · 판별식으로 k = 4"
+ },
+ "q/11-2-2/490": {
+  "target": "https://www.youtube.com/watch?v=F3Zn7zlh5tQ&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 490번 해설 | 차 f−g = kx(x²−25), f·g 몰라도 넓이 25 (∫₀⁻¹ 방향 함정)"
+ },
  "q/11-2-2/493": {
   "target": "https://www.youtube.com/watch?v=zvq5CzfLSJA&list=PLT60WQthwFmk",
   "title": "AMP-미적분1 워크북 493번 해설 | 두 그래프 사이의 넓이"
