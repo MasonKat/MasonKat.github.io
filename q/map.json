@@ -667,6 +667,14 @@
   "target": "https://www.youtube.com/watch?v=arIFb8k2WB4&list=PLT60WQthwFmk",
   "title": "AMP-미적분1 워크북 498번 해설 | 같은 넓이 ⇔ ∫f′=0 ⇔ f(0)=f(−2) → k=−2/3, f−2=x(x+2)², 극솟값 22/27"
  },
+ "q/11-2-2/499": {
+  "target": "https://www.youtube.com/watch?v=-dvtNPKJ5pw&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 499번 해설 | 역함수 적분은 y=x 로 뒤집어 직사각형의 차: (a+1)f(a+1) − a f(a) = 24 → a = 2"
+ },
+ "q/11-2-2/500": {
+  "target": "https://www.youtube.com/watch?v=sq6TTv5wifk&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 500번 해설 | 증가하는 삼차함수와 역함수 사이 넓이 = y=x 와의 넓이 × 2 → 4/3"
+ },
  "q/11-2-2/528": {
   "target": "https://www.youtube.com/watch?v=YAEDjtp_W64&list=PLT60WQthwFmk",
   "title": "AMP-미적분1 워크북 528번 해설 | 절댓값 함수의 미분가능성"
