@@ -663,6 +663,10 @@
   "target": "https://www.youtube.com/watch?v=aj1thY0Vmsw&list=PLT60WQthwFmk",
   "title": "AMP-미적분1 워크북 497번 해설 | |f| = f + 혹 두 배 → g = p³/3 − (β−α)³/6, 최댓값 g(0)=1/2 → p=4 (미분 없이)"
  },
+ "q/11-2-2/498": {
+  "target": "https://www.youtube.com/watch?v=arIFb8k2WB4&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 498번 해설 | 같은 넓이 ⇔ ∫f′=0 ⇔ f(0)=f(−2) → k=−2/3, f−2=x(x+2)², 극솟값 22/27"
+ },
  "q/11-2-2/528": {
   "target": "https://www.youtube.com/watch?v=YAEDjtp_W64&list=PLT60WQthwFmk",
   "title": "AMP-미적분1 워크북 528번 해설 | 절댓값 함수의 미분가능성"
