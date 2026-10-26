@@ -664,7 +664,7 @@
   "title": "AMP-미적분1 워크북 474번 해설 | x·f′(x) 부호에 숨은 근 x=0, f′=ax(x−1)(x−3) 꼴로 잡기"
  },
  "q/11-2-2/475": {
-  "target": "https://www.youtube.com/watch?v=BlJ5slW6C8s&list=PLT60WQthwFmk",
+  "target": "https://www.youtube.com/watch?v=pWTMTYM5J8I&list=PLT60WQthwFmk",
   "title": "AMP-미적분1 워크북 475번 해설 | 적분값을 a 하나의 함수로, 홀수 차수 항은 0 · c는 사라진다"
  },
  "q/11-2-2/476": {
@@ -680,7 +680,7 @@
   "title": "AMP-미적분1 워크북 478번 해설 | ∫|f′| = 내려간 양 + 올라간 양, k＞1 이면 모순 → 극솟값 0"
  },
  "q/11-2-2/479": {
-  "target": "https://www.youtube.com/watch?v=e3ftIlk5hnY&list=PLT60WQthwFmk",
+  "target": "https://www.youtube.com/watch?v=1H4HvaB71mc&list=PLT60WQthwFmk",
   "title": "AMP-미적분1 워크북 479번 해설 | (f+|f|)/2 는 위쪽만, 그 적분이 0 이면 f≤0 → 정수근 0, 2, 8"
  },
  "q/11-2-2/480": {
@@ -696,7 +696,7 @@
   "title": "AMP-미적분1 워크북 482번 해설 | 대칭 구간 적분: 홀수 차 항은 0 → a = c = 0, 극솟값 6"
  },
  "q/11-2-2/483": {
-  "target": "https://www.youtube.com/watch?v=6kYJaBnrBVU&list=PLT60WQthwFmk",
+  "target": "https://www.youtube.com/watch?v=7o-5q5hosvY&list=PLT60WQthwFmk",
   "title": "AMP-미적분1 워크북 483번 해설 | F(x) = ∫₀ˣ g 는 y축 대칭 계단, 경계 8 과 9 만 보면 끝"
  },
  "q/11-2-2/484": {
@@ -712,7 +712,7 @@
   "title": "AMP-미적분1 워크북 486번 해설 | 곱이 0이면 f 로 나누지 말 것: 0인 조각과 매끄럽게 이어 붙인 네 후보"
  },
  "q/11-2-2/487": {
-  "target": "https://www.youtube.com/watch?v=PR7TKTEpiR8&list=PLT60WQthwFmk",
+  "target": "https://www.youtube.com/watch?v=9u7858Su7Os&list=PLT60WQthwFmk",
   "title": "AMP-미적분1 워크북 487번 해설 | 적분 ≥ 0 은 부호 조건 · 두 무게가 양쪽에서 조여서 g의 근 z = 1, f(3) = 11 + b 최소"
  },
  "q/11-2-2/488": {
@@ -814,6 +814,14 @@
  "q/11-2-2/512": {
   "target": "https://www.youtube.com/watch?v=1wQ9EBrIgqI&list=PLT60WQthwFmk",
   "title": "AMP-미적분1 워크북 512번 해설 | f′ 부호로 W 모양, 대칭이면 f(α)=f(γ)라서 ㄴ 거짓, 극값 부호로 교점 네 개"
+ },
+ "q/11-2-2/513": {
+  "target": "https://www.youtube.com/watch?v=dP1-YdvGZC0&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 513번 해설 | f+|g−f| 는 큰 쪽, 꺾이는 점은 단근, 꺾인 점도 극소 + 어둠의 스킬 (기울기×길이)"
+ },
+ "q/11-2-2/514": {
+  "target": "https://www.youtube.com/watch?v=AZELotAGtw8&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 514번 해설 | 삼차함수가 극값을 가질 조건: f′의 판별식 양수 + 최고차항 a≠0 (a=0 세면 ③)"
  },
  "q/11-2-2/528": {
   "target": "https://www.youtube.com/watch?v=YAEDjtp_W64&list=PLT60WQthwFmk",
