@@ -716,7 +716,7 @@
   "title": "AMP-미적분1 워크북 487번 해설 | 적분 ≥ 0 은 부호 조건 · 두 무게가 양쪽에서 조여서 g의 근 z = 1, f(3) = 11 + b 최소"
  },
  "q/11-2-2/488": {
-  "target": "https://www.youtube.com/watch?v=uDyTXgjdTs0&list=PLT60WQthwFmk",
+  "target": "https://www.youtube.com/watch?v=NJ7bTVCjhT8&list=PLT60WQthwFmk",
   "title": "AMP-미적분1 워크북 488번 해설 | g′ = |x|(|q|−1) 을 띠 하나로 읽기 · q(2) = −1, q(6) = 1, q(0) = 1"
  },
  "q/11-2-2/489": {
@@ -724,7 +724,7 @@
   "title": "AMP-미적분1 워크북 489번 해설 | h′ 를 네 구간으로 · 0 이 돼도 부호가 같으면 극값 아님 · 판별식으로 k = 4"
  },
  "q/11-2-2/490": {
-  "target": "https://www.youtube.com/watch?v=F3Zn7zlh5tQ&list=PLT60WQthwFmk",
+  "target": "https://www.youtube.com/watch?v=tZgehrDNXEk&list=PLT60WQthwFmk",
   "title": "AMP-미적분1 워크북 490번 해설 | 차 f−g = kx(x²−25), f·g 몰라도 넓이 25 (∫₀⁻¹ 방향 함정)"
  },
  "q/11-2-2/491": {
@@ -768,7 +768,7 @@
   "title": "AMP-미적분1 워크북 500번 해설 | 증가하는 삼차함수와 역함수 사이 넓이 = y=x 와의 넓이 × 2 → 4/3"
  },
  "q/11-2-2/501": {
-  "target": "https://www.youtube.com/watch?v=-qZ9r2LZxDo&list=PLT60WQthwFmk",
+  "target": "https://www.youtube.com/watch?v=dmye8Z9zung&list=PLT60WQthwFmk",
   "title": "AMP-미적분1 워크북 501번 해설 | 직선 AB 기울기 −1 → 그림 전체가 y=x 대칭, 반쪽(64/3 + 삼각형 64)의 두 배 = 512/3"
  },
  "q/11-2-2/502": {
@@ -822,6 +822,14 @@
  "q/11-2-2/514": {
   "target": "https://www.youtube.com/watch?v=AZELotAGtw8&list=PLT60WQthwFmk",
   "title": "AMP-미적분1 워크북 514번 해설 | 삼차함수가 극값을 가질 조건: f′의 판별식 양수 + 최고차항 a≠0 (a=0 세면 ③)"
+ },
+ "q/11-2-2/515": {
+  "target": "https://www.youtube.com/watch?v=KwFW2MtmLM8&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 515번 해설 | k를 떼어 내 수평선 y=k로, 끝점 k=0은 넣고 k=15는 빼기"
+ },
+ "q/11-2-2/516": {
+  "target": "https://www.youtube.com/watch?v=5nKZtGjCk-E&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 516번 해설 | 부호가 다른 두 할선 = 극점이 구간 안에, k=−1 빼고 곱 12 → a=−2"
  },
  "q/11-2-2/528": {
   "target": "https://www.youtube.com/watch?v=YAEDjtp_W64&list=PLT60WQthwFmk",
