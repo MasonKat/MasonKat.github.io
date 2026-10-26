@@ -491,6 +491,14 @@
   "target": "https://www.youtube.com/watch?v=PQL-Y4j0OZQ&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 491번 해설 | 증가함수면 g(g(x))=x ⟺ g(x)=x, 역함수 바꿔 읽고 u=x+t 치환 → f(u)−u=−2t ≥ 2 → t 최댓값 −1"
  },
+ "q/10-2-2/492": {
+  "target": "https://www.youtube.com/watch?v=F0F3MP_ay0M&list=PLDNkbV_VaUtY",
+  "title": "AMP-공통수학2 워크북 492번 해설 | g 는 y=x 아래 (점 (a,a)만 위) → ㄱ 참 · ㄴ 구간 셋, 해 하나 → 거짓 · t=x−a 치환, g ≤ t ≤ g⁻¹ → "
+ },
+ "q/10-2-2/493": {
+  "target": "https://www.youtube.com/watch?v=5shBfBo7nIg&list=PLDNkbV_VaUtY",
+  "title": "AMP-공통수학2 워크북 493번 해설 | 역함수 존재 = 일대일대응: 7로 나눈 나머지마다 정확히 하나씩 → 1·2·2·1·2·1·2 = 16"
+ },
  "q/10-2-2/534": {
   "target": "https://www.youtube.com/watch?v=OnxZe7-GB5s&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 534번 해설 | 점과 직선 사이의 거리의 최대·최소"
