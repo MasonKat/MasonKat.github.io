@@ -1011,6 +1011,14 @@
   "target": "https://www.youtube.com/watch?v=JYLLVPoL_Ds&list=PLT60WQthwFmk",
   "title": "AMP-미적분1 워크북 535번 해설 | 위치 그래프: 교점 = 만남, 기울기 = 속력, 높이의 변화 = 거리 (끝 높이가 같으면 낮게 출발한 Q 가 더 멀리)"
  },
+ "q/11-2-2/536": {
+  "target": "https://www.youtube.com/watch?v=rY9q2HdGF9A&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 536번 해설 | 위치 그래프가 t축을 지나면 원점 통과일 뿐, 방향 전환은 꼭대기·바닥 (원점과의 거리는 높이의 크기)"
+ },
+ "q/11-2-2/537": {
+  "target": "https://www.youtube.com/watch?v=Eai5FasgyeU&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 537번 해설 | h = f − g 그래프: 높이는 누가 앞인가, 기울기는 누가 빠른가 (추월은 h = 0 을 지나야)"
+ },
  "q/11-2-2/555": {
   "target": "https://www.youtube.com/watch?v=KByLTdBN5eo&list=PLT60WQthwFmk",
   "title": "AMP-미적분1 워크북 555번 해설 | 정적분으로 정의된 함수"
