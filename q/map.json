@@ -427,6 +427,14 @@
   "target": "https://www.youtube.com/watch?v=olneAgq7H5k&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 476번 해설 | 곱이 0이면 후보 두 개, 두 후보가 같은 x=−1 에서 출발 → 일대일로 줄줄이 지우고 (나)로 부호 → 26"
  },
+ "q/10-2-2/477": {
+  "target": "https://www.youtube.com/watch?v=PESNVu33Byc&list=PLDNkbV_VaUtY",
+  "title": "AMP-공통수학2 워크북 477번 해설 | 두 조각 모두 증가 + 이음매 높이 f(a)=g(a+b) → (a+1)²+(a+b−1)²=4, −3≤a≤−1 → ㄱ, ㄴ, ㄷ 모두 참 "
+ },
+ "q/10-2-2/478": {
+  "target": "https://www.youtube.com/watch?v=P-TUJ2vik_4&list=PLDNkbV_VaUtY",
+  "title": "AMP-공통수학2 워크북 478번 해설 | h에서 f, f에서 x로 거꾸로 벗기고 가로 선으로 근 세기 (h=5/2 함정)"
+ },
  "q/10-2-2/534": {
   "target": "https://www.youtube.com/watch?v=OnxZe7-GB5s&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 534번 해설 | 점과 직선 사이의 거리의 최대·최소"
