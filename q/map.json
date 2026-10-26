@@ -851,6 +851,10 @@
   "target": "https://www.youtube.com/watch?v=aX9arddnHjM&list=PLT60WQthwFmk",
   "title": "AMP-미적분1 워크북 521번 해설 | 원점에서 그은 접선 f(t) = t·f′(t): 접점 0과 k+2, 기울기 곱 −8k(2−k)² 최소"
  },
+ "q/11-2-2/522": {
+  "target": "https://www.youtube.com/watch?v=3TTMnZI0iUU&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 522번 해설 | h = f − f′로 묶기: h(0)이 최솟값이면 h′(0) = 0, B² ≤ 4C 경계에서 최소 + 어둠의 스킬"
+ },
  "q/11-2-2/528": {
   "target": "https://www.youtube.com/watch?v=YAEDjtp_W64&list=PLT60WQthwFmk",
   "title": "AMP-미적분1 워크북 528번 해설 | 절댓값 함수의 미분가능성"
