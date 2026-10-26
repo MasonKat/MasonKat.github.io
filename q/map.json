@@ -652,7 +652,7 @@
   "title": "AMP-미적분1 워크북 471번 해설 | 차수로 꼴 잡기: g′=x²+f 가 일차식 → f 의 이차항 −x²"
  },
  "q/11-2-2/472": {
-  "target": "https://www.youtube.com/watch?v=Vy3ltqm8mWU&list=PLT60WQthwFmk",
+  "target": "https://www.youtube.com/watch?v=E1x7Tb5riQ8&list=PLT60WQthwFmk",
   "title": "AMP-미적분1 워크북 472번 해설 | F의 개수는 정수 C의 개수, 세 실근이면 극댓값 양수·극솟값 음수 (등호 빼기)"
  },
  "q/11-2-2/473": {
@@ -660,7 +660,7 @@
   "title": "AMP-미적분1 워크북 473번 해설 | ∫f 가 감소하는 구간은 f가 0보다 작거나 같은 구간, 무서운 (다)는 계수 비교 한 번"
  },
  "q/11-2-2/474": {
-  "target": "https://www.youtube.com/watch?v=XFXCxFlK5Qo&list=PLT60WQthwFmk",
+  "target": "https://www.youtube.com/watch?v=OP83etLZZv8&list=PLT60WQthwFmk",
   "title": "AMP-미적분1 워크북 474번 해설 | x·f′(x) 부호에 숨은 근 x=0, f′=ax(x−1)(x−3) 꼴로 잡기"
  },
  "q/11-2-2/475": {
@@ -806,6 +806,14 @@
  "q/11-2-2/510": {
   "target": "https://www.youtube.com/watch?v=Ope544R9TbI&list=PLT60WQthwFmk",
   "title": "AMP-미적분1 워크북 510번 해설 | 접점과 지나는 점, 두 점 기울기는 접선 기울기 + 어둠의 스킬 (곡선 빼기 접선)"
+ },
+ "q/11-2-2/511": {
+  "target": "https://www.youtube.com/watch?v=YXpqlpDrVk4&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 511번 해설 | 두 도함수 그래프의 차는 위아래로, 기준선은 x축이 아니라 g′"
+ },
+ "q/11-2-2/512": {
+  "target": "https://www.youtube.com/watch?v=1wQ9EBrIgqI&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 512번 해설 | f′ 부호로 W 모양, 대칭이면 f(α)=f(γ)라서 ㄴ 거짓, 극값 부호로 교점 네 개"
  },
  "q/11-2-2/528": {
   "target": "https://www.youtube.com/watch?v=YAEDjtp_W64&list=PLT60WQthwFmk",
