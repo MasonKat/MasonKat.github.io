@@ -276,7 +276,7 @@
   "title": "AMP-공통수학2 워크북 439번 해설 | 근호를 문자로 놓고 완전제곱의 합 = 0"
  },
  "q/10-2-2/440": {
-  "target": "https://www.youtube.com/watch?v=iNmeFR5AEn4&list=PLDNkbV_VaUtY",
+  "target": "https://www.youtube.com/watch?v=2TQPWqLXXX8&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 440번 해설 | 분모의 유리화 → 뺄셈 꼴, 더하면 처음과 끝만 남는다"
  },
  "q/10-2-2/441": {
@@ -592,7 +592,7 @@
   "title": "AMP-미적분1 워크북 456번 해설 | 미분가능으로 a, 직선을 밀어서 접할 때 k의 최솟값"
  },
  "q/11-2-2/457": {
-  "target": "https://www.youtube.com/watch?v=tvSvl7Z_XtU&list=PLT60WQthwFmk",
+  "target": "https://www.youtube.com/watch?v=QUteJ7FiGeo&list=PLT60WQthwFmk",
   "title": "AMP-미적분1 워크북 457번 해설 | 속도가 같다 ⇒ f′(t)=m, 수평선이 극값 0과 16 사이"
  },
  "q/11-2-2/458": {
@@ -830,6 +830,14 @@
  "q/11-2-2/516": {
   "target": "https://www.youtube.com/watch?v=5nKZtGjCk-E&list=PLT60WQthwFmk",
   "title": "AMP-미적분1 워크북 516번 해설 | 부호가 다른 두 할선 = 극점이 구간 안에, k=−1 빼고 곱 12 → a=−2"
+ },
+ "q/11-2-2/517": {
+  "target": "https://www.youtube.com/watch?v=P6H90TqCbBw&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 517번 해설 | f′=2x·q(x), 남은 이차식은 관통 금지: D≤0 (중근 포함)"
+ },
+ "q/11-2-2/518": {
+  "target": "https://www.youtube.com/watch?v=5QjYJQPFTtI&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 518번 해설 | 극댓값 ⟺ f′=0 서로 다른 세 실근: D＞0 그리고 a≠0"
  },
  "q/11-2-2/528": {
   "target": "https://www.youtube.com/watch?v=YAEDjtp_W64&list=PLT60WQthwFmk",
