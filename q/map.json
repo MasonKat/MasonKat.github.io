@@ -487,6 +487,10 @@
   "target": "https://www.youtube.com/watch?v=84Kr-b7BSMQ&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 490번 해설 | f∘f⁻¹ 은 Y 에서만 지워진다 → a 는 X∩Y={2,4}, f(2)=4·f(4)=8, (나)로 f(1)=6 → 12"
  },
+ "q/10-2-2/491": {
+  "target": "https://www.youtube.com/watch?v=PQL-Y4j0OZQ&list=PLDNkbV_VaUtY",
+  "title": "AMP-공통수학2 워크북 491번 해설 | 증가함수면 g(g(x))=x ⟺ g(x)=x, 역함수 바꿔 읽고 u=x+t 치환 → f(u)−u=−2t ≥ 2 → t 최댓값 −1"
+ },
  "q/10-2-2/534": {
   "target": "https://www.youtube.com/watch?v=OnxZe7-GB5s&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 534번 해설 | 점과 직선 사이의 거리의 최대·최소"
