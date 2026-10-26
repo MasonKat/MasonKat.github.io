@@ -1019,6 +1019,10 @@
   "target": "https://www.youtube.com/watch?v=Eai5FasgyeU&list=PLT60WQthwFmk",
   "title": "AMP-미적분1 워크북 537번 해설 | h = f − g 그래프: 높이는 누가 앞인가, 기울기는 누가 빠른가 (추월은 h = 0 을 지나야)"
  },
+ "q/11-2-2/538": {
+  "target": "https://www.youtube.com/watch?v=2Bbog4p8ILM&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 538번 해설 | 물 붓는 원뿔: 깊이 h = (20/9)t 로 부피를 t의 식으로 → 미분 먼저, t = 9/4 → 20π"
+ },
  "q/11-2-2/555": {
   "target": "https://www.youtube.com/watch?v=KByLTdBN5eo&list=PLT60WQthwFmk",
   "title": "AMP-미적분1 워크북 555번 해설 | 정적분으로 정의된 함수"
