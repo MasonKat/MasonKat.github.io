@@ -416,7 +416,7 @@
   "title": "AMP-공통수학2 워크북 472번 해설 | 특수값 0 대입으로 f⁻¹ = f 보이기"
  },
  "q/10-2-2/473": {
-  "target": "https://www.youtube.com/watch?v=iA6G05K_T4g&list=PLDNkbV_VaUtY",
+  "target": "https://www.youtube.com/watch?v=l54Mj9bJne0&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 473번 해설 | 부등식으로 꽉 끼는 x=3부터, 일대일대응으로 경우 지우기"
  },
  "q/10-2-2/474": {
@@ -466,6 +466,10 @@
  "q/10-2-2/485": {
   "target": "https://www.youtube.com/watch?v=VuELCHzIUnA&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 485번 해설 | 정육각형 넓이 함수는 사다리꼴, b=f(a)도 f의 값이라 최댓값으로 b 범위부터"
+ },
+ "q/10-2-2/486": {
+  "target": "https://www.youtube.com/watch?v=_OtiiXHX-IY&list=PLDNkbV_VaUtY",
+  "title": "AMP-공통수학2 워크북 486번 해설 | 안쪽 유리함수를 u로, 최솟값 8로 일정 = 꼭짓점이 모든 구간 안, p=6"
  },
  "q/10-2-2/534": {
   "target": "https://www.youtube.com/watch?v=OnxZe7-GB5s&list=PLDNkbV_VaUtY",
@@ -836,7 +840,7 @@
   "title": "AMP-미적분1 워크북 504번 해설 | 거리 = ∫|v|, 구간이 t=2를 걸치면 2에서 끊기 → f(a)=⅔a³−a²−a+2, 바닥은 양 끝 속력이 같을 때"
  },
  "q/11-2-2/505": {
-  "target": "https://www.youtube.com/watch?v=8216UuFKgKI&list=PLT60WQthwFmk",
+  "target": "https://www.youtube.com/watch?v=VQI5gHXJkoM&list=PLT60WQthwFmk",
   "title": "AMP-미적분1 워크북 505번 해설 | 분모→0 극한 한 줄 = 식 두 개 (f(1)=0, f′(1)=−8)"
  },
  "q/11-2-2/506": {
@@ -844,7 +848,7 @@
   "title": "AMP-미적분1 워크북 506번 해설 | 접선이 곡선을 뚫고 지나가면 f−g=−(x−k)³, k는 두 극점의 한가운데"
  },
  "q/11-2-2/507": {
-  "target": "https://www.youtube.com/watch?v=aUoDKHb0ouk&list=PLT60WQthwFmk",
+  "target": "https://www.youtube.com/watch?v=FxeEyeaS63s&list=PLT60WQthwFmk",
   "title": "AMP-미적분1 워크북 507번 해설 | |f|의 극대 1은 f의 극소 −1을 뒤집은 것, 정수의 곱이 −1"
  },
  "q/11-2-2/508": {
