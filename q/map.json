@@ -359,6 +359,18 @@
   "target": "https://www.youtube.com/watch?v=8VAQJk2w214&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 460번 해설 | 대각선=지름 → a²+b²=180, 모서리 2a+4b, 코시 슈바르츠로 최댓값 60"
  },
+ "q/10-2-2/461": {
+  "target": "https://www.youtube.com/watch?v=Gq0ZCSKxE_4&list=PLDNkbV_VaUtY",
+  "title": "AMP-공통수학2 워크북 461번 해설 | 끈 한 바퀴 = 변 두 번 + 높이 두 번 → x+y=24, 합 일정 → 곱 최대 (정사각형) 720"
+ },
+ "q/10-2-2/462": {
+  "target": "https://www.youtube.com/watch?v=LgDMBFJ9pD0&list=PLDNkbV_VaUtY",
+  "title": "AMP-공통수학2 워크북 462번 해설 | 넓이로 2m+3n=3, 고정된 합을 곱해 산술·기하 한 번 (두 번 쓰면 가짜 8) → 28"
+ },
+ "q/10-2-2/463": {
+  "target": "https://www.youtube.com/watch?v=c53nI84v3lU&list=PLDNkbV_VaUtY",
+  "title": "AMP-공통수학2 워크북 463번 해설 | 개수 함수 g(t)는 정수 → x+2도 정수, x=−2~2만 확인 · 경계값 g(−1)=1, g(1)=3"
+ },
  "q/10-2-2/474": {
   "target": "https://www.youtube.com/watch?v=c2XUcC7I17A&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 474번 해설 | 역함수와 일대일대응"
