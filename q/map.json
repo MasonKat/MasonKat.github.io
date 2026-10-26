@@ -507,6 +507,14 @@
   "target": "https://www.youtube.com/watch?v=hWFQR_NZgXE&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 495번 해설 | 왼쪽 무리함수가 5 이상 → 오른쪽 유리함수의 양 끝값이 0과 5, 두 경우 → g(4) = 3, 18 → 23"
  },
+ "q/10-2-2/496": {
+  "target": "https://www.youtube.com/watch?v=Odd00DWnYRs&list=PLDNkbV_VaUtY",
+  "title": "AMP-공통수학2 워크북 496번 해설 | f(f(x))=f(x): 안쪽을 t로 → f(t)=t 먼저, 가로 선 두 개로 근 다섯 개 (구간 끝 x=1 함정)"
+ },
+ "q/10-2-2/497": {
+  "target": "https://www.youtube.com/watch?v=6Gg8zhsKiHg&list=PLDNkbV_VaUtY",
+  "title": "AMP-공통수학2 워크북 497번 해설 | f(x)=u로 바깥부터 세기, f≤5 라서 u=19 는 0개 (함정 8)"
+ },
  "q/10-2-2/534": {
   "target": "https://www.youtube.com/watch?v=OnxZe7-GB5s&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 534번 해설 | 점과 직선 사이의 거리의 최대·최소"
