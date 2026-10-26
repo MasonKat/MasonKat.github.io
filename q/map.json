@@ -380,11 +380,11 @@
   "title": "AMP-공통수학2 워크북 463번 해설 | 개수 함수 g(t)는 정수 → x+2도 정수, x=−2~2만 확인 · 경계값 g(−1)=1, g(1)=3"
  },
  "q/10-2-2/464": {
-  "target": "https://www.youtube.com/watch?v=lHJl71cm1nQ&list=PLDNkbV_VaUtY",
+  "target": "https://www.youtube.com/watch?v=RHPXvl48dgQ&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 464번 해설 | f는 x의 부호로 두 조각 → g(a)는 0·1·2 계단, 원은 끝점 포함 여부로 → r=1, 2 (r은 반지름의 제곱)"
  },
  "q/10-2-2/465": {
-  "target": "https://www.youtube.com/watch?v=nWKQh5a0AT0&list=PLDNkbV_VaUtY",
+  "target": "https://www.youtube.com/watch?v=1LGCDTZnKMc&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 465번 해설 | 두 근의 합 = 대칭축×2, 공통근은 f(x)=g(x)에서 x=m/2 · 치역 네 원소의 합 9m/2−8=19 → m=6"
  },
  "q/10-2-2/466": {
@@ -462,6 +462,10 @@
  "q/10-2-2/484": {
   "target": "https://www.youtube.com/watch?v=O4XV_HcY2QY&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 484번 해설 | g는 10 더하기라 f의 치역은 −10부터, 꼭짓점이 음수 쪽 안이라 a=4 (−4 함정)"
+ },
+ "q/10-2-2/485": {
+  "target": "https://www.youtube.com/watch?v=VuELCHzIUnA&list=PLDNkbV_VaUtY",
+  "title": "AMP-공통수학2 워크북 485번 해설 | 정육각형 넓이 함수는 사다리꼴, b=f(a)도 f의 값이라 최댓값으로 b 범위부터"
  },
  "q/10-2-2/534": {
   "target": "https://www.youtube.com/watch?v=OnxZe7-GB5s&list=PLDNkbV_VaUtY",
