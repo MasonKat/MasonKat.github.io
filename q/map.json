@@ -847,6 +847,10 @@
   "target": "https://www.youtube.com/watch?v=bwsxYpA7REI&list=PLT60WQthwFmk",
   "title": "AMP-미적분1 워크북 520번 해설 | 합성함수의 최솟값: 안쪽을 t로, t ≥ −1 안에서 f(t) (g의 최솟값을 넣으면 6, 함정)"
  },
+ "q/11-2-2/521": {
+  "target": "https://www.youtube.com/watch?v=aX9arddnHjM&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 521번 해설 | 원점에서 그은 접선 f(t) = t·f′(t): 접점 0과 k+2, 기울기 곱 −8k(2−k)² 최소"
+ },
  "q/11-2-2/528": {
   "target": "https://www.youtube.com/watch?v=YAEDjtp_W64&list=PLT60WQthwFmk",
   "title": "AMP-미적분1 워크북 528번 해설 | 절댓값 함수의 미분가능성"
