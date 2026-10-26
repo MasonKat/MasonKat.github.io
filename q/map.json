@@ -23,6 +23,10 @@
   "target": "https://www.youtube.com/watch?v=9Kxrck_eONQ&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 185번 해설 | 절댓값이 두 개인 함수의 그래프"
  },
+ "q/10-2-2/214": {
+  "target": "https://www.youtube.com/watch?v=6eKDQphjSi0&list=PLDNkbV_VaUtY",
+  "title": "AMP-공통수학2 워크북 214번 해설 | 안쪽을 t로 놓고 t의 범위부터"
+ },
  "q/10-2-2/376": {
   "target": "https://www.youtube.com/watch?v=WrtCiq3SNQk&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 376번 해설 | 조건의 부정과 진리집합"
@@ -336,7 +340,7 @@
   "title": "AMP-공통수학2 워크북 453번 해설 | 절댓값 세 개는 n, 2n, 3n에서 자르기, 봉우리 2n이 빠져서 n=3, 중심 5인 구간은 먼 끝 10까지 덮기"
  },
  "q/10-2-2/454": {
-  "target": "https://www.youtube.com/watch?v=G9F-AsN3IEE&list=PLDNkbV_VaUtY",
+  "target": "https://www.youtube.com/watch?v=kAERZhfzWIo&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 454번 해설 | (Q−P)^C 는 Q^C∪P → Q⊂P, 단 P≠Q · 방향 주의"
  },
  "q/10-2-2/455": {
@@ -368,7 +372,7 @@
   "title": "AMP-공통수학2 워크북 461번 해설 | 끈 한 바퀴 = 변 두 번 + 높이 두 번 → x+y=24, 합 일정 → 곱 최대 (정사각형) 720"
  },
  "q/10-2-2/462": {
-  "target": "https://www.youtube.com/watch?v=LgDMBFJ9pD0&list=PLDNkbV_VaUtY",
+  "target": "https://www.youtube.com/watch?v=qouv28-HzQQ&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 462번 해설 | 넓이로 2m+3n=3, 고정된 합을 곱해 산술·기하 한 번 (두 번 쓰면 가짜 8) → 28"
  },
  "q/10-2-2/463": {
