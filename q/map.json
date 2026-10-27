@@ -1250,5 +1250,9 @@
  "q/11-2-2/560": {
   "target": "https://www.youtube.com/watch?v=392dsUhhEXQ&list=PLT60WQthwFmk",
   "title": "AMP-미적분1 워크북 560번 해설 | 2x·f(x)는 원점 대칭이라 0 → ∫f = 5, 길이 2인 구간은 잘라 옮겨 붙이면 어디든 5 → 8칸 = 40"
+ },
+ "q/11-2-2/561": {
+  "target": "https://www.youtube.com/watch?v=TKLHjRSf6_0&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 561번 해설 | 기함수로 ∫₀²f = 13, ∫₂⁴f = −21 · 교점 5개가 전부 → 넓이 11 + 27 = 38 · g(x)−x 주기 4 → 4×38"
  }
 }
