@@ -607,6 +607,14 @@
   "target": "https://www.youtube.com/watch?v=sx15nlFBTOI&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 520번 해설 | f⁻¹ 은 중심 좌표 맞바꾸기 (a,2)→(2,a), f(x−4)−4 는 중심 이동 (a+4,−2) → 중심 맞추기 a=−2, b=7 →"
  },
+ "q/10-2-2/521": {
+  "target": "https://www.youtube.com/watch?v=ogH1aBB_G_4&list=PLDNkbV_VaUtY",
+  "title": "AMP-공통수학2 워크북 521번 해설 | f(x)=c 는 c가 점근선 높이일 때만 근 없음 → |f|=2 한 점 ⇔ b=±2, f⁻¹(2) 존재로 b=−2 → a=12 → f(8"
+ },
+ "q/10-2-2/522": {
+  "target": "https://www.youtube.com/watch?v=76ydf0d5Clk&list=PLDNkbV_VaUtY",
+  "title": "AMP-공통수학2 워크북 522번 해설 | 중심 비교로 a=−1, f∘f=x+1 → 6x²−6x+4−5b=0, 중근 b=1/2 · 정의역 밖 근은 b=8 (상수함수라 제외) → 1"
+ },
  "q/10-2-2/534": {
   "target": "https://www.youtube.com/watch?v=OnxZe7-GB5s&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 534번 해설 | 점과 직선 사이의 거리의 최대·최소"
