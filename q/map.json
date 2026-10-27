@@ -1027,9 +1027,21 @@
   "target": "https://www.youtube.com/watch?v=N-1xZBzS694&list=PLT60WQthwFmk",
   "title": "AMP-미적분1 워크북 539번 해설 | 대각선 위 점 R의 높이는 2t 가 아니라 12t/7 (닮음) → 두 사면체 부피를 t의 식으로 → 10/7"
  },
+ "q/11-2-2/540": {
+  "target": "https://www.youtube.com/watch?v=mVMEcgIQlfQ&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 540번 해설 | 점이 다섯 개여도 좌표는 전부 t로: 접선은 x로 미분, 넓이 6t³은 t로 미분 → 72"
+ },
  "q/11-2-2/541": {
   "target": "https://www.youtube.com/watch?v=bNYc20pxk9c&list=PLT60WQthwFmk",
   "title": "AMP-미적분1 워크북 541번 해설 | f′g+fg′ = (fg)′ → 적분해서 f−g, fg 통째로, 인수분해로 짝 맞추기"
+ },
+ "q/11-2-2/542": {
+  "target": "https://www.youtube.com/watch?v=0crW5I2M6fY&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 542번 해설 | 줄줄이 이어진 함수: 두세 개 직접 구해 규칙 f_i = xⁿ⁺ⁱ/(n+i), 합 (3n²+n)/2 = 100 → n = 8"
+ },
+ "q/11-2-2/543": {
+  "target": "https://www.youtube.com/watch?v=DQzHignASQc&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 543번 해설 | fG+Fg = (FG)′ 곱의 미분 거꾸로, (나) 미분하고 x에 0 → g = 4x+1, G 꼴에 맞는 인수 고르기"
  },
  "q/11-2-2/555": {
   "target": "https://www.youtube.com/watch?v=KByLTdBN5eo&list=PLT60WQthwFmk",
