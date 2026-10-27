@@ -140,7 +140,7 @@
   "title": "AMP-공통수학2 워크북 403번 해설 | 두 조건을 한 부등식으로"
  },
  "q/10-2-2/404": {
-  "target": "https://www.youtube.com/watch?v=fQ8iZsMAv_8&list=PLDNkbV_VaUtY",
+  "target": "https://www.youtube.com/watch?v=lHdiFPl0bAU&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 404번 해설 | 등호가 될 점을 먼저"
  },
  "q/10-2-2/405": {
@@ -1042,6 +1042,10 @@
  "q/11-2-2/543": {
   "target": "https://www.youtube.com/watch?v=DQzHignASQc&list=PLT60WQthwFmk",
   "title": "AMP-미적분1 워크북 543번 해설 | fG+Fg = (FG)′ 곱의 미분 거꾸로, (나) 미분하고 x에 0 → g = 4x+1, G 꼴에 맞는 인수 고르기"
+ },
+ "q/11-2-2/544": {
+  "target": "https://www.youtube.com/watch?v=dW9XwOreTlo&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 544번 해설 | 적분 기호 안의 f → 양변 미분, xf의 차수 n+1 = 3 → f는 이차식, 계수 비교"
  },
  "q/11-2-2/555": {
   "target": "https://www.youtube.com/watch?v=KByLTdBN5eo&list=PLT60WQthwFmk",
