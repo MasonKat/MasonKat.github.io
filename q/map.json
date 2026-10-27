@@ -519,6 +519,66 @@
   "target": "https://www.youtube.com/watch?v=StHZoau_hkc&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 498번 해설 | b 부호로 g 정리 → 바닥 b·꼭대기 2b, h는 1·2·3뿐 → α=b, β=2b"
  },
+ "q/10-2-2/499": {
+  "target": "https://www.youtube.com/watch?v=0pY01fuCZQY&list=PLDNkbV_VaUtY",
+  "title": "AMP-공통수학2 워크북 499번 해설 | f∘f 그래프: f(x)=1 인 x=1/2 에서 새로 꺾인다 → 세 조각, 직선과 교점 3개"
+ },
+ "q/10-2-2/500": {
+  "target": "https://www.youtube.com/watch?v=lv2Li2bcFgU&list=PLDNkbV_VaUtY",
+  "title": "AMP-공통수학2 워크북 500번 해설 | f(x)=t 로 두고 f(t)=2−t → t=1/2, 5/3 → 가로 선으로 2+1=3개"
+ },
+ "q/10-2-2/501": {
+  "target": "https://www.youtube.com/watch?v=j9sM5iQfiuw&list=PLDNkbV_VaUtY",
+  "title": "AMP-공통수학2 워크북 501번 해설 | 바깥부터 벗기기: 고정점 −4, 0, 4 → f(x)의 값 7개 → 절댓값과 4 비교로 11개 (원점 대칭이면 홀수)"
+ },
+ "q/10-2-2/502": {
+  "target": "https://www.youtube.com/watch?v=KF_sb14MD-w&list=PLDNkbV_VaUtY",
+  "title": "AMP-공통수학2 워크북 502번 해설 | 기울기 −1 직선 → P, Q는 y=x 대칭 짝 → P의 x좌표 t로 PQ=√2(t²−t+4) → 완전제곱식, 최솟값 15√2/4 → 1"
+ },
+ "q/10-2-2/503": {
+  "target": "https://www.youtube.com/watch?v=5eKtoqBBFPU&list=PLDNkbV_VaUtY",
+  "title": "AMP-공통수학2 워크북 503번 해설 | 역함수와의 교점은 y=x 위 또는 대칭 짝 → (1,1) + 짝 (−2,2), (2,−2) → c=−2, 빈틈 없이 a+b=1 → 23"
+ },
+ "q/10-2-2/504": {
+  "target": "https://www.youtube.com/watch?v=943rz5MzmNI&list=PLDNkbV_VaUtY",
+  "title": "AMP-공통수학2 워크북 504번 해설 | 작은 쪽 g는 늘 y=x 아래 → y=x에서 내려온 거리는 언덕 → 꼭대기 3 → a=6, g(4)=7/6 → 13"
+ },
+ "q/10-2-2/505": {
+  "target": "https://www.youtube.com/watch?v=X1Oj-jgtEd8&list=PLDNkbV_VaUtY",
+  "title": "AMP-공통수학2 워크북 505번 해설 | 정의역 x＜1 → 치역은 끝값 f(1)과 점근선 5 사이 (양 끝 제외), 점근선 아래·위 두 경우 → −1≤M＜0, 10＜M≤11 → "
+ },
+ "q/10-2-2/506": {
+  "target": "https://www.youtube.com/watch?v=ANpMIsqv2kI&list=PLDNkbV_VaUtY",
+  "title": "AMP-공통수학2 워크북 506번 해설 | f＜0 ⇔ x가 m과 n−m 사이 → 제3사분면 피하기 = 두 끝 모두 0 이상 → 0≤m≤n, m≠n/2 → n=9, 10 → 19"
+ },
+ "q/10-2-2/507": {
+  "target": "https://www.youtube.com/watch?v=_TVmMbussS8&list=PLDNkbV_VaUtY",
+  "title": "AMP-공통수학2 워크북 507번 해설 | 각 가지에서 감소인데 순서가 섞이면 사이에 점근선 → p=3 · g는 증가(q＞20) + f(1)은 다른 가지(q＜161) → Q(80)"
+ },
+ "q/10-2-2/508": {
+  "target": "https://www.youtube.com/watch?v=cc7D3OvSo9s&list=PLDNkbV_VaUtY",
+  "title": "AMP-공통수학2 워크북 508번 해설 | y=k/x 위 P(a, a+2)·Q(a+2, a): 원점 대칭 + y=x 대칭 → 직사각형 넓이 8(a+1) → k=(a+1)²−1=4"
+ },
+ "q/10-2-2/509": {
+  "target": "https://www.youtube.com/watch?v=3CP3q2N743Q&list=PLDNkbV_VaUtY",
+  "title": "AMP-공통수학2 워크북 509번 해설 | 기울기 합 0 → 삼각형 ODC 이등변, AD=OA → θ·2θ·3θ (ㄱ, ㄴ, ㄷ 모두 참)"
+ },
+ "q/10-2-2/510": {
+  "target": "https://www.youtube.com/watch?v=_wJ5Zt55uho&list=PLDNkbV_VaUtY",
+  "title": "AMP-공통수학2 워크북 510번 해설 | 점근선의 교점 P = 대칭의 중심 → O와 A가 직선 l에서 같은 거리 1 → PC=2PB → k²=2"
+ },
+ "q/10-2-2/511": {
+  "target": "https://www.youtube.com/watch?v=UOH_xBOeAkU&list=PLDNkbV_VaUtY",
+  "title": "AMP-공통수학2 워크북 511번 해설 | y=k(x−3)+4 는 정점 (3,4) 를 도는 직선 → 가지별 교점 세기, 판별식 0 인 k=1·4 중 k=4 는 버린 가짜 가지 → "
+ },
+ "q/10-2-2/512": {
+  "target": "https://www.youtube.com/watch?v=BFXY_vYu1Y8&list=PLDNkbV_VaUtY",
+  "title": "AMP-공통수학2 워크북 512번 해설 | y=x 대칭 B(α,β), C(β,α) → 직선 BC 기울기 −1, A 도 x+y=0 위 → 높이 = 평행선 사이 거리 → α²+β²=6"
+ },
+ "q/10-2-2/513": {
+  "target": "https://www.youtube.com/watch?v=rvZPG94lXhg&list=PLDNkbV_VaUtY",
+  "title": "AMP-공통수학2 워크북 513번 해설 | f=b+ab/(x−a), 오른쪽 조각 시작 a+3b/2 · 점근선 a+b → b＜0, 시작점이 b 아래 → a=3, b=−8, k=−5 "
+ },
  "q/10-2-2/534": {
   "target": "https://www.youtube.com/watch?v=OnxZe7-GB5s&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 534번 해설 | 점과 직선 사이의 거리의 최대·최소"
@@ -1058,6 +1118,26 @@
  "q/11-2-2/547": {
   "target": "https://www.youtube.com/watch?v=OxXbPd7PoZA&list=PLT60WQthwFmk",
   "title": "AMP-미적분1 워크북 547번 해설 | 극한 두 개로 다항식 결정: (가) 차수 비교로 f′=4x+p, (나) 0분의 0 → f(2)=0, f′(2)=1, 근의 곱 6/2=3"
+ },
+ "q/11-2-2/548": {
+  "target": "https://www.youtube.com/watch?v=i9JlE4eAemg&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 548번 해설 | 모든 x, y 관계식: x=y=0 → f(0)=0, x 자리에 x+h · y 자리에 h → 미분계수의 정의 f′(x)=b−3x², 극대 조"
+ },
+ "q/11-2-2/549": {
+  "target": "https://www.youtube.com/watch?v=70SxdiHv5I4&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 549번 해설 | F, f, f′ 섞인 식은 차수부터: 삼차 결정 → (나)로 f=x³+ax² → x³ 계수 비교 a=−3, F(2)=−4"
+ },
+ "q/11-2-2/550": {
+  "target": "https://www.youtube.com/watch?v=n308zUq8cd8&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 550번 해설 | 도함수만 주고 최댓값과 최솟값의 차: 위치부터 (최소 f(k), 최대 f(3)), 차는 k부터 3까지 f′ 의 정적분 → k = 1"
+ },
+ "q/11-2-2/551": {
+  "target": "https://www.youtube.com/watch?v=Oap1DCy-Moo&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 551번 해설 | f + xf′ = (xf)′ 곱의 미분 거꾸로 → g = x²(x−α)² + C, 극값으로 α = 6, g(α/3) = g(2) = 64 "
+ },
+ "q/11-2-2/552": {
+  "target": "https://www.youtube.com/watch?v=ugF_LlXkMr0&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 552번 해설 | 적분으로 정의된 g, h 는 미분해서 부호만: 극대 없음 = h′ 중근 → m = 0 또는 2, (가) 부호 확인으로 m = 2, f(1)"
  },
  "q/11-2-2/555": {
   "target": "https://www.youtube.com/watch?v=KByLTdBN5eo&list=PLT60WQthwFmk",
