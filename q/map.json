@@ -1242,5 +1242,13 @@
  "q/11-2-2/558": {
   "target": "https://www.youtube.com/watch?v=Un_zZU2sry4&list=PLT60WQthwFmk",
   "title": "AMP-미적분1 워크북 558번 해설 | f′ 이 홀이면 f 는 짝 (상수항은 f(1)로), 세 번째 보기는 높이 3 직사각형 한 장 (어둠의 스킬)"
+ },
+ "q/11-2-2/559": {
+  "target": "https://www.youtube.com/watch?v=yohnyOex2u8&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 559번 해설 | 주기함수 적분: 한 주기 넓이 4 → 13 = 4×3 + 1, 세 주기 뒤 첫 삼각형 넓이 1 → k = 10"
+ },
+ "q/11-2-2/560": {
+  "target": "https://www.youtube.com/watch?v=392dsUhhEXQ&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 560번 해설 | 2x·f(x)는 원점 대칭이라 0 → ∫f = 5, 길이 2인 구간은 잘라 옮겨 붙이면 어디든 5 → 8칸 = 40"
  }
 }
