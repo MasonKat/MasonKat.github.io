@@ -579,6 +579,18 @@
   "target": "https://www.youtube.com/watch?v=rvZPG94lXhg&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 513번 해설 | f=b+ab/(x−a), 오른쪽 조각 시작 a+3b/2 · 점근선 a+b → b＜0, 시작점이 b 아래 → a=3, b=−8, k=−5 "
  },
+ "q/10-2-2/514": {
+  "target": "https://www.youtube.com/watch?v=w1nAdMgdsaU&list=PLDNkbV_VaUtY",
+  "title": "AMP-공통수학2 워크북 514번 해설 | |1−1/x| 는 x=1에서 꺾인 두 조각 · 한 조각과 직선은 이차방정식이라 근 2개까지 → t, 2t, 3t 나누기 → t=5/6 →"
+ },
+ "q/10-2-2/515": {
+  "target": "https://www.youtube.com/watch?v=An-iaFmpVE4&list=PLDNkbV_VaUtY",
+  "title": "AMP-공통수학2 워크북 515번 해설 | k를 한쪽으로: 2k=1/(x−2)+2/x · 감소 더하기 감소 → h(k)는 k의 부호로만 → m과 4−m 중 한쪽만 양수 → 8개"
+ },
+ "q/10-2-2/516": {
+  "target": "https://www.youtube.com/watch?v=Ohe8S_ZttEs&list=PLDNkbV_VaUtY",
+  "title": "AMP-공통수학2 워크북 516번 해설 | 왼쪽 조각은 늘 1≤y＜2 · (가) x=−2가 어느 조각? → a=−2 또는 꼭짓점 x=−2 · (나) y=±2에 접하기 (판별식) →"
+ },
  "q/10-2-2/534": {
   "target": "https://www.youtube.com/watch?v=OnxZe7-GB5s&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 534번 해설 | 점과 직선 사이의 거리의 최대·최소"
