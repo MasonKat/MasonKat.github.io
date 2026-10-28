@@ -596,11 +596,11 @@
   "title": "AMP-공통수학2 워크북 517번 해설 | 절댓값 구간별로 벗기기 → 세 조각 · 정점 (−3,−4) 회전 · 빈 점 (−1,2) 를 지나는 k=3 은 포함, k=1 은 접선 → "
  },
  "q/10-2-2/518": {
-  "target": "https://www.youtube.com/watch?v=gXBppEmQVIE&list=PLDNkbV_VaUtY",
+  "target": "https://www.youtube.com/watch?v=ruj3kQpzm8o&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 518번 해설 | 교점 최대 1+2+2=5 → 모든 자리 꽉 참 → k=0 · f(±2)=±2 로 a=1/2, b=6 · 바깥 두 근 확인 → 37/26"
  },
  "q/10-2-2/519": {
-  "target": "https://www.youtube.com/watch?v=11_55rc1fkQ&list=PLDNkbV_VaUtY",
+  "target": "https://www.youtube.com/watch?v=i_nsbG-AcN0&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 519번 해설 | |g| 접어 그리기 → 높이 3 경계 x=2 → α=2 · 정점 (4,−1) 과 뾰족한 점 (3,0) 기울기 −1 → β=−1 · 어둠의"
  },
  "q/10-2-2/520": {
@@ -608,11 +608,11 @@
   "title": "AMP-공통수학2 워크북 520번 해설 | f⁻¹ 은 중심 좌표 맞바꾸기 (a,2)→(2,a), f(x−4)−4 는 중심 이동 (a+4,−2) → 중심 맞추기 a=−2, b=7 →"
  },
  "q/10-2-2/521": {
-  "target": "https://www.youtube.com/watch?v=ogH1aBB_G_4&list=PLDNkbV_VaUtY",
+  "target": "https://www.youtube.com/watch?v=HV7erpYCezs&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 521번 해설 | f(x)=c 는 c가 점근선 높이일 때만 근 없음 → |f|=2 한 점 ⇔ b=±2, f⁻¹(2) 존재로 b=−2 → a=12 → f(8"
  },
  "q/10-2-2/522": {
-  "target": "https://www.youtube.com/watch?v=76ydf0d5Clk&list=PLDNkbV_VaUtY",
+  "target": "https://www.youtube.com/watch?v=NOtZilwiNVY&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 522번 해설 | 중심 비교로 a=−1, f∘f=x+1 → 6x²−6x+4−5b=0, 중근 b=1/2 · 정의역 밖 근은 b=8 (상수함수라 제외) → 1"
  },
  "q/10-2-2/523": {
@@ -620,7 +620,7 @@
   "title": "AMP-공통수학2 워크북 523번 해설 | √(3|x|+x)를 x 부호로 나누기 · 왼쪽은 k 양수일 때만 1개 · 오른쪽 √x=t 이차방정식 2개 · 원점 중복 주의 → 1/2"
  },
  "q/10-2-2/524": {
-  "target": "https://www.youtube.com/watch?v=jneMPH9R88g&list=PLDNkbV_VaUtY",
+  "target": "https://www.youtube.com/watch?v=b3AKw63OZrw&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 524번 해설 | [x]로 네 조각 그리기 · 직선은 (0, −1)을 돈다 · 조각마다 양 끝 비교 (꽉 찬 점 등호 포함, 빈 점 제외) → 0＜a≤1/"
  },
  "q/10-2-2/525": {
@@ -636,7 +636,7 @@
   "title": "AMP-공통수학2 워크북 527번 해설 | 산 모양 그래프와 가로 직선: 두 점·한 점 → α 는 꼭짓점, a=b · y=x 와의 교점 a, a−1 · γ=a+1 → f(9)=3"
  },
  "q/10-2-2/528": {
-  "target": "https://www.youtube.com/watch?v=5Zr4gikUNo4&list=PLDNkbV_VaUtY",
+  "target": "https://www.youtube.com/watch?v=KLREtaMsaeA&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 528번 해설 | 역함수 존재 + 치역 한 덩어리 → a=√(2n−2)+3 · y=2x 와 안 만나기: x=2 에서 높이 비교 → n=2 · 이차방정식으로"
  },
  "q/10-2-2/529": {
