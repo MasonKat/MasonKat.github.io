@@ -524,15 +524,15 @@
   "title": "AMP-공통수학2 워크북 499번 해설 | f∘f 그래프: f(x)=1 인 x=1/2 에서 새로 꺾인다 → 세 조각, 직선과 교점 3개"
  },
  "q/10-2-2/500": {
-  "target": "https://www.youtube.com/watch?v=lv2Li2bcFgU&list=PLDNkbV_VaUtY",
+  "target": "https://www.youtube.com/watch?v=7IAZ8FYMDUY&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 500번 해설 | f(x)=t 로 두고 f(t)=2−t → t=1/2, 5/3 → 가로 선으로 2+1=3개"
  },
  "q/10-2-2/501": {
-  "target": "https://www.youtube.com/watch?v=j9sM5iQfiuw&list=PLDNkbV_VaUtY",
+  "target": "https://www.youtube.com/watch?v=4si6MvTFo34&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 501번 해설 | 바깥부터 벗기기: 고정점 −4, 0, 4 → f(x)의 값 7개 → 절댓값과 4 비교로 11개 (원점 대칭이면 홀수)"
  },
  "q/10-2-2/502": {
-  "target": "https://www.youtube.com/watch?v=KF_sb14MD-w&list=PLDNkbV_VaUtY",
+  "target": "https://www.youtube.com/watch?v=y73dL20zF6g&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 502번 해설 | 기울기 −1 직선 → P, Q는 y=x 대칭 짝 → P의 x좌표 t로 PQ=√2(t²−t+4) → 완전제곱식, 최솟값 15√2/4 → 1"
  },
  "q/10-2-2/503": {
@@ -544,7 +544,7 @@
   "title": "AMP-공통수학2 워크북 504번 해설 | 작은 쪽 g는 늘 y=x 아래 → y=x에서 내려온 거리는 언덕 → 꼭대기 3 → a=6, g(4)=7/6 → 13"
  },
  "q/10-2-2/505": {
-  "target": "https://www.youtube.com/watch?v=X1Oj-jgtEd8&list=PLDNkbV_VaUtY",
+  "target": "https://www.youtube.com/watch?v=7kDBCEOORk8&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 505번 해설 | 정의역 x＜1 → 치역은 끝값 f(1)과 점근선 5 사이 (양 끝 제외), 점근선 아래·위 두 경우 → −1≤M＜0, 10＜M≤11 → "
  },
  "q/10-2-2/506": {
@@ -556,11 +556,11 @@
   "title": "AMP-공통수학2 워크북 507번 해설 | 각 가지에서 감소인데 순서가 섞이면 사이에 점근선 → p=3 · g는 증가(q＞20) + f(1)은 다른 가지(q＜161) → Q(80)"
  },
  "q/10-2-2/508": {
-  "target": "https://www.youtube.com/watch?v=cc7D3OvSo9s&list=PLDNkbV_VaUtY",
+  "target": "https://www.youtube.com/watch?v=I54UCHiQkvM&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 508번 해설 | y=k/x 위 P(a, a+2)·Q(a+2, a): 원점 대칭 + y=x 대칭 → 직사각형 넓이 8(a+1) → k=(a+1)²−1=4"
  },
  "q/10-2-2/509": {
-  "target": "https://www.youtube.com/watch?v=3CP3q2N743Q&list=PLDNkbV_VaUtY",
+  "target": "https://www.youtube.com/watch?v=E4BzXjGJ5xw&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 509번 해설 | 기울기 합 0 → 삼각형 ODC 이등변, AD=OA → θ·2θ·3θ (ㄱ, ㄴ, ㄷ 모두 참)"
  },
  "q/10-2-2/510": {
@@ -568,7 +568,7 @@
   "title": "AMP-공통수학2 워크북 510번 해설 | 점근선의 교점 P = 대칭의 중심 → O와 A가 직선 l에서 같은 거리 1 → PC=2PB → k²=2"
  },
  "q/10-2-2/511": {
-  "target": "https://www.youtube.com/watch?v=UOH_xBOeAkU&list=PLDNkbV_VaUtY",
+  "target": "https://www.youtube.com/watch?v=OEw-tSxLkUA&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 511번 해설 | y=k(x−3)+4 는 정점 (3,4) 를 도는 직선 → 가지별 교점 세기, 판별식 0 인 k=1·4 중 k=4 는 버린 가짜 가지 → "
  },
  "q/10-2-2/512": {
@@ -1254,5 +1254,65 @@
  "q/11-2-2/561": {
   "target": "https://www.youtube.com/watch?v=TKLHjRSf6_0&list=PLT60WQthwFmk",
   "title": "AMP-미적분1 워크북 561번 해설 | 기함수로 ∫₀²f = 13, ∫₂⁴f = −21 · 교점 5개가 전부 → 넓이 11 + 27 = 38 · g(x)−x 주기 4 → 4×38"
+ },
+ "q/11-2-2/562": {
+  "target": "https://www.youtube.com/watch?v=DhAQjoaLRTQ&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 562번 해설 | F′ = f, F의 극대 = f가 x축을 위에서 아래로 뚫는 자리 → 세 실근 → 2a+2 ＞ 0 ＞ 2a−2 → a = 0"
+ },
+ "q/11-2-2/563": {
+  "target": "https://www.youtube.com/watch?v=88wIi_XYZLk&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 563번 해설 | f = x³ − cx, F(±1) = 0, 교점 개수 g의 불연속 = 극값의 높이 → F(0) = 0 → c = 1/2 → F(2)+g(2"
+ },
+ "q/11-2-2/564": {
+  "target": "https://www.youtube.com/watch?v=s_67hVTV61Y&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 564번 해설 | x²을 밖으로, 곱의 미분 → g′ = 2xF(x), x = 0은 극값 아님, F(a) ≥ 0 → a의 최댓값 2 (어둠의 스킬: 보기 대"
+ },
+ "q/11-2-2/565": {
+  "target": "https://www.youtube.com/watch?v=86Uqg8kVPKg&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 565번 해설 | F = ∫₀ˣ f 그래프에서 f 는 높이 말고 기울기: 극값 자리가 f 의 근, x절편은 함정"
+ },
+ "q/11-2-2/566": {
+  "target": "https://www.youtube.com/watch?v=DReDztXKl28&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 566번 해설 | 모양으로 F = kx(x+3)² 세우고 전개해서 미분, 점 (−2, −3)은 f 의 꼭짓점이라 최솟값 −3"
+ },
+ "q/11-2-2/567": {
+  "target": "https://www.youtube.com/watch?v=aPZaVNRAZ30&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 567번 해설 | 절댓값 그래프에서 F 되살리기: 0인 점으로 식, f(0) 양수로 부호, 적분은 F 의 차라서 부호만으로 m 세기"
+ },
+ "q/11-2-2/568": {
+  "target": "https://www.youtube.com/watch?v=FeLneyBElWo&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 568번 해설 | 근 a에서 위·아래 나누기 → S(a) = −a⁴/6 + a² + 1/2 → S′ 부호가 a의 부호 → a = 0"
+ },
+ "q/11-2-2/569": {
+  "target": "https://www.youtube.com/watch?v=vXkNEkuZIJs&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 569번 해설 | 두 곡선 넓이 4(a + 1/a) → 곱이 1로 일정, 산술·기하 → 최솟값 8, a = 1 → m + n = 9"
+ },
+ "q/11-2-2/570": {
+  "target": "https://www.youtube.com/watch?v=Z1u86sLc0A0&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 570번 해설 | 전개 말고 미분: S′ = f(t){1 + f′(t)} → 직선이 곡선에 접할 때 최대 (t = 3) → 57/4 + 18 = 129/4"
+ },
+ "q/11-2-2/571": {
+  "target": "https://www.youtube.com/watch?v=_3ZiG8g4FiM&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 571번 해설 | 증가함수와 역함수의 교점은 y=x 위 → x²(x−1)=0 → 넓이 = 2∫₀¹(x²−x³) = 1/6"
+ },
+ "q/11-2-2/572": {
+  "target": "https://www.youtube.com/watch?v=bLshuWR39-4&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 572번 해설 | 역함수 적분은 y=x로 뒤집어 직사각형으로: f(2)=2, f(3)=10 → 30−4−∫₂³f = 83/4 (⑤)"
+ },
+ "q/11-2-2/573": {
+  "target": "https://www.youtube.com/watch?v=b4VcPOY4BVs&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 573번 해설 | 어중간한 절편 a는 구하지 않는다: g 쪽 조각을 y=x로 뒤집으면 −∫₀ᵃf, 이어 붙여 −∫₀⁴f = 96"
+ },
+ "q/11-2-2/574": {
+  "target": "https://www.youtube.com/watch?v=JmiBLzZZ8WM&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 574번 해설 | B 기준 시각 → A 는 16(t+2), B 는 ∫(2s+2)ds = t²+2t → t = 16초 (2초 빠뜨리면 14초 함정)"
+ },
+ "q/11-2-2/575": {
+  "target": "https://www.youtube.com/watch?v=2lP5ZJ1Wne8&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 575번 해설 | 거리 − 변화량 = 음수 부분 넓이의 두 배 → a = 4, b = 8 → ∫₁⁶ v dt = 34 − 20 = 14"
+ },
+ "q/11-2-2/576": {
+  "target": "https://www.youtube.com/watch?v=Ud2ZcTDhWhY&list=PLT60WQthwFmk",
+  "title": "AMP-미적분1 워크북 576번 해설 | 왕복 거리 2 → 원점에서 1 넘게 못 감 (ㄴ 거짓) → 근이 없으면 한 번 왕복, 최대 정확히 1 (ㄷ 참) → ㄱ, ㄷ"
  }
 }
