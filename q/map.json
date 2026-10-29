@@ -540,7 +540,7 @@
   "title": "AMP-공통수학2 워크북 503번 해설 | 역함수와의 교점은 y=x 위 또는 대칭 짝 → (1,1) + 짝 (−2,2), (2,−2) → c=−2, 빈틈 없이 a+b=1 → 23"
  },
  "q/10-2-2/504": {
-  "target": "https://www.youtube.com/watch?v=943rz5MzmNI&list=PLDNkbV_VaUtY",
+  "target": "https://www.youtube.com/watch?v=6PJZI0UDHtw&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 504번 해설 | 작은 쪽 g는 늘 y=x 아래 → y=x에서 내려온 거리는 언덕 → 꼭대기 3 → a=6, g(4)=7/6 → 13"
  },
  "q/10-2-2/505": {
@@ -600,7 +600,7 @@
   "title": "AMP-공통수학2 워크북 518번 해설 | 교점 최대 1+2+2=5 → 모든 자리 꽉 참 → k=0 · f(±2)=±2 로 a=1/2, b=6 · 바깥 두 근 확인 → 37/26"
  },
  "q/10-2-2/519": {
-  "target": "https://www.youtube.com/watch?v=i_nsbG-AcN0&list=PLDNkbV_VaUtY",
+  "target": "https://www.youtube.com/watch?v=91oYUAyfGDs&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 519번 해설 | |g| 접어 그리기 → 높이 3 경계 x=2 → α=2 · 정점 (4,−1) 과 뾰족한 점 (3,0) 기울기 −1 → β=−1 · 어둠의"
  },
  "q/10-2-2/520": {
@@ -612,7 +612,7 @@
   "title": "AMP-공통수학2 워크북 521번 해설 | f(x)=c 는 c가 점근선 높이일 때만 근 없음 → |f|=2 한 점 ⇔ b=±2, f⁻¹(2) 존재로 b=−2 → a=12 → f(8"
  },
  "q/10-2-2/522": {
-  "target": "https://www.youtube.com/watch?v=NOtZilwiNVY&list=PLDNkbV_VaUtY",
+  "target": "https://www.youtube.com/watch?v=lbn_REI17Bo&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 522번 해설 | 중심 비교로 a=−1, f∘f=x+1 → 6x²−6x+4−5b=0, 중근 b=1/2 · 정의역 밖 근은 b=8 (상수함수라 제외) → 1"
  },
  "q/10-2-2/523": {
@@ -636,7 +636,7 @@
   "title": "AMP-공통수학2 워크북 527번 해설 | 산 모양 그래프와 가로 직선: 두 점·한 점 → α 는 꼭짓점, a=b · y=x 와의 교점 a, a−1 · γ=a+1 → f(9)=3"
  },
  "q/10-2-2/528": {
-  "target": "https://www.youtube.com/watch?v=KLREtaMsaeA&list=PLDNkbV_VaUtY",
+  "target": "https://www.youtube.com/watch?v=_L296SkrQg0&list=PLDNkbV_VaUtY",
   "title": "AMP-공통수학2 워크북 528번 해설 | 역함수 존재 + 치역 한 덩어리 → a=√(2n−2)+3 · y=2x 와 안 만나기: x=2 에서 높이 비교 → n=2 · 이차방정식으로"
  },
  "q/10-2-2/529": {
@@ -988,11 +988,11 @@
   "title": "AMP-미적분1 워크북 494번 해설 | 접점 t, 다시 만나는 점 −2t (근의 합) → 12분의 1 공식으로 t²=10/3, 답은 수직 기울기 1/20"
  },
  "q/11-2-2/495": {
-  "target": "https://www.youtube.com/watch?v=b3j-g1Y2oCQ&list=PLT60WQthwFmk",
+  "target": "https://www.youtube.com/watch?v=ihNm86gE-3o&list=PLT60WQthwFmk",
   "title": "AMP-미적분1 워크북 495번 해설 | 기울기 2인 두 접선: 넓이 공식 두 번 (27/4) + 평행사변형 12 → 3/2"
  },
  "q/11-2-2/496": {
-  "target": "https://www.youtube.com/watch?v=fOu3Anm6PRk&list=PLT60WQthwFmk",
+  "target": "https://www.youtube.com/watch?v=A-ZhO86BUJo&list=PLT60WQthwFmk",
   "title": "AMP-미적분1 워크북 496번 해설 | 인수분해로 그래프 모양 → S₂는 a, k 없이 12분의 1 공식, 연속 + S₁=8S₂ 로 ak=9"
  },
  "q/11-2-2/497": {
@@ -1232,11 +1232,11 @@
   "title": "AMP-미적분1 워크북 555번 해설 | 정적분으로 정의된 함수"
  },
  "q/11-2-2/556": {
-  "target": "https://www.youtube.com/watch?v=BS5yEZZoAFI&list=PLT60WQthwFmk",
+  "target": "https://www.youtube.com/watch?v=h1H-xe_pHxE&list=PLT60WQthwFmk",
   "title": "AMP-미적분1 워크북 556번 해설 | 모르는 f 그대로: 홀×짝은 지우고, 홀×홀 = 짝인 xf(x)만 2배 (2배 빼먹으면 ② 10)"
  },
  "q/11-2-2/557": {
-  "target": "https://www.youtube.com/watch?v=7-uCl-1njaA&list=PLT60WQthwFmk",
+  "target": "https://www.youtube.com/watch?v=UCGmO38usVs&list=PLT60WQthwFmk",
   "title": "AMP-미적분1 워크북 557번 해설 | h = fg 는 홀, h′ 은 짝: xh′ 는 지우고 ∫h′ = h(3) − h(−3) = 2h(3) (h′ 적분을 0으로 지우면 함정)"
  },
  "q/11-2-2/558": {
@@ -1244,7 +1244,7 @@
   "title": "AMP-미적분1 워크북 558번 해설 | f′ 이 홀이면 f 는 짝 (상수항은 f(1)로), 세 번째 보기는 높이 3 직사각형 한 장 (어둠의 스킬)"
  },
  "q/11-2-2/559": {
-  "target": "https://www.youtube.com/watch?v=yohnyOex2u8&list=PLT60WQthwFmk",
+  "target": "https://www.youtube.com/watch?v=McPFQc9q9Ic&list=PLT60WQthwFmk",
   "title": "AMP-미적분1 워크북 559번 해설 | 주기함수 적분: 한 주기 넓이 4 → 13 = 4×3 + 1, 세 주기 뒤 첫 삼각형 넓이 1 → k = 10"
  },
  "q/11-2-2/560": {
@@ -1272,7 +1272,7 @@
   "title": "AMP-미적분1 워크북 565번 해설 | F = ∫₀ˣ f 그래프에서 f 는 높이 말고 기울기: 극값 자리가 f 의 근, x절편은 함정"
  },
  "q/11-2-2/566": {
-  "target": "https://www.youtube.com/watch?v=DReDztXKl28&list=PLT60WQthwFmk",
+  "target": "https://www.youtube.com/watch?v=7Te7IlZJH_k&list=PLT60WQthwFmk",
   "title": "AMP-미적분1 워크북 566번 해설 | 모양으로 F = kx(x+3)² 세우고 전개해서 미분, 점 (−2, −3)은 f 의 꼭짓점이라 최솟값 −3"
  },
  "q/11-2-2/567": {
