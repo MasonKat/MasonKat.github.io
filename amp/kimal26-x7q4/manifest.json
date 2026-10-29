@@ -1,9 +1,11 @@
 {
  "name": "AMP 해설 영상",
  "short_name": "AMP 해설",
- "start_url": ".",
+ "lang": "ko",
+ "start_url": "./",
+ "scope": "/",
  "display": "standalone",
- "background_color": "#f6f7fb",
+ "background_color": "#ffffff",
  "theme_color": "#2563eb",
  "icons": [
   {
@@ -14,7 +16,14 @@
   {
    "src": "icon-512.png",
    "sizes": "512x512",
-   "type": "image/png"
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512-maskable.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
   }
  ]
 }
