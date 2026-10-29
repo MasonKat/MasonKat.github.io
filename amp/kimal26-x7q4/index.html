@@ -41,15 +41,21 @@ style="flex:1;padding:9px 6px;border-radius:999px;border:1px solid #111;font-siz
 <script>(function(){var HERE="web",OTHER="insta/",dp=null,bar=document.getElementById("inst"),tip=document.getElementById("inst-tip");
 var sa=(window.matchMedia&&matchMedia("(display-mode: standalone)").matches)||navigator.standalone;if(sa){bar.style.display="none";return;}
 var ios=/iphone|ipad|ipod/i.test(navigator.userAgent)||(navigator.platform==="MacIntel"&&navigator.maxTouchPoints>1);
-var NAME={web:"웹 보기",feed:"인스타 보기"};
+var NAME={web:"웹 보기",feed:"인스타 보기"},ua=navigator.userAgent,and=/android/i.test(ua);
+var kakao=/KAKAOTALK/i.test(ua),inapp=kakao||/Instagram|NAVER|Line\/|FBAN|FBAV|everytimeApp|DaumApps|; wv\)/i.test(ua);
+if("serviceWorker" in navigator){navigator.serviceWorker.register("sw.js").catch(function(){});}
+function out(){var u=location.href.split("#")[0]+"#install";if(kakao){location.href="kakaotalk://web/openExternal?url="+encodeURIComponent(u);return true;}
+if(and){location.href="intent://"+u.replace(/^https?:\/\//,"")+"#Intent;scheme=https;package=com.android.chrome;end";return true;}return false;}
 function say(t){tip.innerHTML=t;tip.hidden=false;}
 function steps(){say(ios?"Safari(또는 Chrome) 아래쪽·위쪽의 <b>공유 버튼</b>(네모에 위 화살표) → <b>홈 화면에 추가</b>를 누르세요. 지금 이 화면(<b>"+NAME[HERE]+"</b>)이 그대로 저장돼요."
-:"Chrome 오른쪽 위 <b>⋮</b> 메뉴 → <b>홈 화면에 추가</b> (또는 <b>앱 설치</b>)를 누르세요. 지금 이 화면(<b>"+NAME[HERE]+"</b>)이 저장돼요.");}
+:"Chrome 오른쪽 위 <b>⋮</b> 메뉴 → <b>홈 화면에 추가</b> (또는 <b>앱 설치</b>)를 누르세요. 지금 이 화면(<b>"+NAME[HERE]+"</b>)이 저장돼요. 메뉴에 <b>앱 열기</b>가 보이면 이미 설치돼 있는 거예요.");}
 addEventListener("beforeinstallprompt",function(e){e.preventDefault();dp=e;});
 addEventListener("appinstalled",function(){say("저장됐어요! 홈 화면의 AMP 아이콘으로 열면 돼요.");});
 bar.querySelectorAll("button").forEach(function(b){var me=b.getAttribute("data-v")===HERE;
 b.style.background=me?(HERE==="web"?"#2563eb":"#111"):"#fff";b.style.color=me?"#fff":(b.getAttribute("data-v")==="web"?"#2563eb":"#111");
 b.onclick=function(){if(!me){location.href=OTHER+"#install";return;}
+if(inapp){say("카카오톡·인스타 같은 앱 안의 브라우저에서는 저장이 안 돼요. "+(ios?"오른쪽 아래(또는 위) <b>⋯</b> → <b>Safari로 열기</b>를 누른 다음, 이 버튼을 다시 누르세요.":"Chrome으로 여는 중이에요. 열리면 이 버튼을 다시 누르세요."));
+if(kakao||and)setTimeout(out,600);return;}
 if(dp){dp.prompt();dp.userChoice.then(function(c){if(c.outcome!=="accepted")steps();dp=null;});}else steps();};});
 if(location.hash==="#install"){say("여기가 <b>"+NAME[HERE]+"</b> 화면이에요. 위의 <b>"+NAME[HERE]+"</b> 버튼을 한 번 더 누르면 저장돼요.");
 bar.scrollIntoView();}})();</script></header>
@@ -650,7 +656,7 @@ bar.scrollIntoView();}})();</script></header>
 <details data-lv="1"><summary><span class="t">알맹이 10 · 방정식의 실근의 개수 (f(x)=k, 부호, 사차, 두 곡선의 교점, 접선의 개수)</span><span class="c">기본 · 1/1</span></summary><div class="vids">
 <a data-t="136 알맹이 10 방정식의 실근의 개수 (f(x)=k, 부호, 사차, 두 곡선의 교점, 접선의 개수) 삼차방정식의 실근의 개수" href="https://masonkat.github.io/q/11-2-2/136">136번<small>삼차방정식의 실근의 개수</small></a>
 </div></details>
-</section><footer>업데이트 2026-10-29 17:05 · AMP</footer></div><script>
+</section><footer>업데이트 2026-10-29 17:17 · AMP</footer></div><script>
 let g='고1', lv='all';
 const qs=s=>[...document.querySelectorAll(s)], q=document.getElementById('q');
 function apply(){const s=q.value.trim();
