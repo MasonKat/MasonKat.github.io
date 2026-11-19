@@ -1,13 +1,13 @@
 {
  "id": "/amp/kimal26-x7q4/",
- "name": "AMP 해설 영상",
- "short_name": "AMP 해설",
+ "name": "AMP-Omni 3D 영상",
+ "short_name": "AMP 3D",
  "lang": "ko",
  "start_url": "./",
  "scope": "/",
  "display": "standalone",
- "background_color": "#ffffff",
- "theme_color": "#2563eb",
+ "background_color": "#0b1220",
+ "theme_color": "#0b1220",
  "icons": [
   {
    "src": "icon-192.png",
